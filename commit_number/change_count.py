@@ -2,8 +2,9 @@
 # coding: UTF-8
 import os
 import datetime
+import time
 
-filename = "change_history_view.csv"
+filename = "commit_count.txt"
 file = open(filename)
 lines2 = file.readlines()
 file.close()
@@ -21,7 +22,7 @@ for line in lines2:
         if int(str[4]) not in module_axis :
             module_axis.append(int(str[4]))
 
-        tdatetime = datetime.datetime.strptime(string_date, '%Y-%m-%d')
+        tdatetime = datetime.datetime.strptime(string_date, '%Y/%m/%d')
         tdate = datetime.date(tdatetime.year, tdatetime.month, tdatetime.day)
 
         if tdate not in date_axis :
@@ -36,8 +37,8 @@ date_axis.sort()
 x_max = len(date_axis)
 y_max = len(module_axis)
 
-print(x_max)
-print(y_max)
+#print(x_max)
+#print(y_max)
 
 module_id_commit = [[0 for i in range(y_max)] for j in range(x_max)]
 
@@ -52,7 +53,7 @@ for line in lines2:
         commit_date = str[0]
         commit_target_id = int(str[4])
 
-        tdatetime = datetime.datetime.strptime(commit_date, '%Y-%m-%d')
+        tdatetime = datetime.datetime.strptime(commit_date, '%Y/%m/%d')
         input_commit_date = datetime.date(tdatetime.year, tdatetime.month, tdatetime.day)
 
         if input_commit_date in date_axis:
@@ -69,7 +70,7 @@ for module in module_id_commit:
     d += 1
     m=0
     for commit in module:
-        print(date_axis[d-1], end=" ")
+        print(int(time.mktime(date_axis[d-1].timetuple())), end=" ")
         print(module_axis[m], end=" ")
         print(commit)
         m += 1
