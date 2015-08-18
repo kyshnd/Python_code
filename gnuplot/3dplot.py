@@ -9,11 +9,20 @@ commit_times=[]
 
 counter = 0
 for line in lines2:
-    if counter = 0:
-        split = line.split(" \t")
+    split = line.split(" \t")
+    if counter == 0:
         counter += 1
         for splited in split :
             file_id.append(splited)
+    else :
+        day_counter = 0
+        for splited in split :
+            if day_counter == 0 :
+                day.append(splited)
+                day_counter += 1
+            else :
+
+
     hashcode.append(str[0])
     day.append(str[1])
     author.append(str[2])
