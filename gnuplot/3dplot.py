@@ -3,49 +3,45 @@ file = open(filename)
 lines2 = file.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
 file.close() # lines2: リスト。要素は1行の文字列データ
 
-file_id=[]
-day=[]
-commit_times=[]
+#       y1  y2  y3
+#   x1  z11 z12 z13
+#   x2  z21 z22 z23
+
+file_id = []
+day = []
+commit_times = []
+
+#   x1  y1  z11
+#   x1  y2  z12
+#   x1  y3  z13
 
 counter = 0
 for line in lines2:
+    line = line.rstrip("\n")
     split = line.split(" \t")
     if counter == 0:
         counter += 1
         for splited in split :
-            file_id.append(splited)
+            file_id.append(splited) #y axies
     else :
         day_counter = 0
+        commit_time = []
         for splited in split :
             if day_counter == 0 :
                 day.append(splited)
                 day_counter += 1
             else :
+                commit_time.append(splited)
+                #print(splited)
+        commit_times.append(commit_time)
 
-
-    hashcode.append(str[0])
-    day.append(str[1])
-    author.append(str[2])
-    #print(str[0])
-
-filename_counter=[]
-
-for i in range(len(hashcode)-1):
-
-    commit_file_name = hashcode[i] + ".txt"
-    commit_file = open(commit_file_name)
-    commit_file_lines = commit_file.readlines()
-    commit_file.close()
-
-    for line in commit_file_lines :
-        line = line.rstrip('\n')
-        print(hashcode[i], end = ",")
-        print(day[i], end = ",")
-        print(author[i], end = ",")
-        print(line, end = ",")
-        print(" ", end = ",")
-        if line not in filename_counter:
-            filename_counter.append(line)
-            print(filename_counter.index(line))
-        elif line in filename_counter:
-            print(filename_counter.index(line))
+d = 0
+for day_array in day :
+    f = 0
+    for file_array in file_id :
+        print(day_array, end = " ")
+        print(file_array, end = " ")
+        print(commit_times[d][f])
+        f += 1
+    print("")
+    d += 1
