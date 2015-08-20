@@ -1,3 +1,4 @@
+
 filename = "intday.txt"
 file = open(filename)
 lines2 = file.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
@@ -41,7 +42,10 @@ for day_array in day :
     for file_array in file_id :
         print(day_array, end = " ")
         print(file_array, end = " ")
-        print(commit_times[d][f])
+        if commit_times[d][f] == "0" :
+            print(commit_times[d][f])
+        else :
+            print("1")
         f += 1
     print("")
     d += 1
