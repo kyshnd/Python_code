@@ -1,0 +1,5 @@
+17f1d2951fa7840fda6e33c8ed51cee292c60114 2008-09-28 bayard@apache.org bayard@apache.org
+a78f1c2b459fc1e8b89f18b57456fadf97ded127 2008-09-22 sebb@apache.org sebb@apache.org
+fa436d849d61af287341e329f03ea6c16b405cae 2008-09-17 niallp@apache.org niallp@apache.org
+3ed99652c84339375f1e6b99bd9c7f71d565e023 2008-09-16 sebb@apache.org sebb@apache.org
+6f27e9bbd119e419fa417b9446abe7aae0fb9624 2008-09-04 mbenson@apache.org mbenson@apache.org

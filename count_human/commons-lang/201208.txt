@@ -1,0 +1,6 @@
+8c478f2f9bffd4fe575316acf6dc3e04646fd5f2 2012-08-24 ggregory@apache.org ggregory@apache.org
+c3c36a5171e2c2a04f1dcf1dee1ccca24d30b4de 2012-08-24 ggregory@apache.org ggregory@apache.org
+c7ef0b7eb707160fcfbac023be28a22b56921599 2012-08-24 julius@apache.org julius@apache.org
+93148a8e5e398930606df0e9e1927a8ea8e6bd57 2012-08-23 julius@apache.org julius@apache.org
+c63041d06c284ecd92a90f4e192df37d94a1d228 2012-08-03 mbenson@apache.org mbenson@apache.org
+49b63810c04ebf57aef8afe04420f3cba3891563 2012-08-03 mbenson@apache.org mbenson@apache.org
