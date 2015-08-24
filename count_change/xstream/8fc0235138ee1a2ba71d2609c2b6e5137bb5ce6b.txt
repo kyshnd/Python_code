@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XomWriterTest.java

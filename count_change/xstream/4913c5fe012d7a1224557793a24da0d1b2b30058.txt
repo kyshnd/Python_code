@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream-distribution/src/content/json-tutorial.html
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterModeTest.java

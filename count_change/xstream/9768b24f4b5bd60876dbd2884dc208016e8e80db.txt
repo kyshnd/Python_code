@@ -1,0 +1,11 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/BooleanConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/StackTraceElementFactory.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/LambdaConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializationMethodInvoker.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/util/OrderRetainingMap.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Types.java
+xstream/src/java/com/thoughtworks/xstream/io/AttributeNameIterator.java
+xstream/src/java/com/thoughtworks/xstream/mapper/LambdaMapper.java

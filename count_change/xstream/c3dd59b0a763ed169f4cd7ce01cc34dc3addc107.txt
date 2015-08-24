@@ -1,0 +1,11 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamImplicit.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ArrayIterator.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Primitives.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitArrayTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ImplicitArrayTest.java

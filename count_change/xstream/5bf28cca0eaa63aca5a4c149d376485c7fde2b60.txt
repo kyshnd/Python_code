@@ -1,0 +1,4 @@
+xstream/lib/xom-1.0b3.jar
+xstream/lib/xom-license.txt
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XomReaderTest.java

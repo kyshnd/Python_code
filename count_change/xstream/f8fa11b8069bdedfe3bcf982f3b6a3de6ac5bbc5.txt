@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/lookup/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/xml/dom/DomXMLReader.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java

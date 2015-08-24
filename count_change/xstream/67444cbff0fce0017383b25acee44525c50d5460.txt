@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXmlReader.java
+xstream/src/test/com/thoughtworks/acceptance/XStream12CompatibilityTest.java

@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ActivationDataFlavorConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ActivationDataFlavorConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/FieldDictionaryTest.java

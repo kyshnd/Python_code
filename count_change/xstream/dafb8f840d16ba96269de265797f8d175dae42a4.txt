@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ToAttributedValueConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ToAttributedValueConverterTest.java

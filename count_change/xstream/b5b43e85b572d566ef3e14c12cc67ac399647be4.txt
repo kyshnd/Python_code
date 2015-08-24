@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/InstanceResolver.java
+xstream/src/test/com/thoughtworks/acceptance/ReadResolveTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/ColorEnum.java
+xstream/src/test/com/thoughtworks/acceptance/objects/StatusEnum.java
+xstream/website/content/changes.html
+xstream/website/content/team.html

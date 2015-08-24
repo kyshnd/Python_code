@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/javabean/JavaBeanConverterTest.java

@@ -1,0 +1,4 @@
+LICENSE.txt
+pom.xml
+xstream-benchmark/pom.xml
+xstream-distribution/pom.xml

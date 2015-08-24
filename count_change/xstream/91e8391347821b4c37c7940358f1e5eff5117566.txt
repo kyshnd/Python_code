@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ClassAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/FieldAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java
+xstream/src/test/com/thoughtworks/xstream/mapper/FieldAliasingMapperTest.java

@@ -1,0 +1,8 @@
+xstream/jdk-1.5-specific.txt
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamAlias.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConfig.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamContainedType.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConverter.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConverters.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamImplicitCollection.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/XStreamAnnotationTest.java

@@ -1,0 +1,17 @@
+xstream/.cvsignore
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/NullConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/ArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/lookup/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/xml/text/PrettyPrintXMLWriter.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java
+xstream/src/test/com/thoughtworks/acceptance/BasicTypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/ConcreteClassesTest.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/alias/DefaultClassMapperTest.java
+xstream/src/test/com/thoughtworks/xstream/xml/text/PrettyPrintXMLWriterTest.java
+xstream/todo.txt

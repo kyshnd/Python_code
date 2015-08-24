@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializationMethodInvoker.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/util/PrioritizedList.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/core/util/PrioritizedListTest.java

@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractAttributedCharacterIteratorAttributeConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Fields.java

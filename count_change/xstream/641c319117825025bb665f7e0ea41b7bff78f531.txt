@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/references.html
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java

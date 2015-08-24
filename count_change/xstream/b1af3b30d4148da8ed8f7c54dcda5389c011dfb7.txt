@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream-distribution/src/content/manual-tweaking-output.html
+xstream/src/java/com/thoughtworks/xstream/converters/extended/NamedCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/NamedMapConverter.java
+xstream/src/test/com/thoughtworks/acceptance/NamedLocalElementsTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ParametrizedConverterTest.java

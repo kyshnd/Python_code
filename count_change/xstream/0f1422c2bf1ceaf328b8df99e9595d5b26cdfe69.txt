@@ -1,0 +1,3 @@
+xstream/src/test/com/thoughtworks/acceptance/XStream11CompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/ZConverter.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java

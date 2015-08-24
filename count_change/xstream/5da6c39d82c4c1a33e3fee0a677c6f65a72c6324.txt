@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Pool.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ThreadSafePropertyEditor.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/PropertyEditorCapableConverterTest.java

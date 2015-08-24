@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/URIConverter.java
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonReader.java
+xstream/src/test/com/thoughtworks/xstream/converters/basic/URIConverterTest.java

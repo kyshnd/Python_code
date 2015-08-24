@@ -1,0 +1,4 @@
+xstream/build.xml
+xstream/src/java/com/thoughtworks/xstream/core/util/QuickWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java
+xstream/website/content/team.html

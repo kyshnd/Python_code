@@ -1,0 +1,3 @@
+xstream/website/java/minimesh/Page.java
+xstream/website/lib/servletapi-2.3.jar
+xstream/website/lib/sitemesh-2.2.1.jar

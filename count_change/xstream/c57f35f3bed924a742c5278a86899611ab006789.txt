@@ -1,0 +1,8 @@
+xstream-distribution/src/content/faq.html
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/BEAStaxReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/KXml2ReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/SjsxpReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/SjsxpStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/WstxReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Xpp3ReaderTest.java

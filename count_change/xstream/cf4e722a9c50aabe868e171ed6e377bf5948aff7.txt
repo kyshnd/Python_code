@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ToAttributedValueConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/UseAttributeForEnumMapper.java

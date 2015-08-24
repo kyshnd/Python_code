@@ -1,0 +1,8 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ExternalizableConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CustomObjectInputStream.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java

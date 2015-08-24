@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ThrowableConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/IDCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ThrowableConverterTest.java

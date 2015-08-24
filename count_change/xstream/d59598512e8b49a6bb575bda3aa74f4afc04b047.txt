@@ -1,0 +1,6 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/test/com/thoughtworks/acceptance/CustomClassesTest.java
+xstream/src/test/com/thoughtworks/acceptance/SecurityManagerTest.java
+xstream/src/test/com/thoughtworks/xstream/core/util/DependencyInjectionFactoryTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/testutil/DynamicSecurityManager.java

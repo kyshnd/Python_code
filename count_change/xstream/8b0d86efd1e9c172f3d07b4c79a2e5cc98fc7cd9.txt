@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanConverter.java
+xstream/src/test/com/thoughtworks/acceptance/XStream12CompatibilityTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/javabean/JavaBeanConverterTest.java

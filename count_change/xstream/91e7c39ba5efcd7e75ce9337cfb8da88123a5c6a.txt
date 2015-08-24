@@ -1,0 +1,6 @@
+xstream/jdk-1.5-specific.txt
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/StringBuilderConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/UUIDConverter.java
+xstream/src/test/com/thoughtworks/acceptance/Basic15TypesTest.java

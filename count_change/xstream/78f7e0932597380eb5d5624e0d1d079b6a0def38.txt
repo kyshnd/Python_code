@@ -1,0 +1,4 @@
+pom.xml
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/converters/basic/StringConverter.java

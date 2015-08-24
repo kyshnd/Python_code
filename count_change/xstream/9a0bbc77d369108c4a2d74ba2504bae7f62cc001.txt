@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/package.html
+xstream/src/java/com/thoughtworks/xstream/converters/collections/package.html
+xstream/src/java/com/thoughtworks/xstream/converters/extended/package.html

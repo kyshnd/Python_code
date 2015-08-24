@@ -1,0 +1,15 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/Xpp3Driver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Xpp3Reader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Xpp3Writer.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/xpp3/Xpp3Dom.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/xpp3/Xpp3DomBuilder.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/xppdom/Xpp3Dom.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/xppdom/Xpp3DomBuilder.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Xpp3ReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XppDomReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xpp3/Xpp3XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xppdom/Xpp3XStreamTest.java

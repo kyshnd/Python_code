@@ -1,0 +1,10 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream/lib/jdom-1.0.jar
+xstream/lib/jdom-1.1.jar
+xstream/lib/jettison-1.0.1.jar
+xstream/lib/jettison-1.0.jar
+xstream/lib/joda-time-1.5.1.jar
+xstream/lib/joda-time-1.5.2.jar
+xstream/lib/wstx-asl-3.2.4.jar
+xstream/lib/wstx-asl-3.2.7.jar

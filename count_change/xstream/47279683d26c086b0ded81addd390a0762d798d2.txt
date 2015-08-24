@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaMethodConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java

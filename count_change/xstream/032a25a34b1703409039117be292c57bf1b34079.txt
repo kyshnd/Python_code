@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshaller.java
+xstream/src/test/com/thoughtworks/xstream/core/TreeMarshallerTest.java

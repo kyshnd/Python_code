@@ -1,0 +1,6 @@
+README.txt
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/index.html
+xstream-distribution/src/content/license.html
+xstream-distribution/src/content/news.html

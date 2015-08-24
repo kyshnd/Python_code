@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/JavaClassConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaClassConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaMethodConverter.java
+xstream/src/test/com/thoughtworks/acceptance/ReflectionClassesTest.java

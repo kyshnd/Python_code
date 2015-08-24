@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/path/RelativePathCalculator.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/RelativePathCalculatorTest.java

@@ -1,0 +1,6 @@
+xstream/lib/xml-writer-0.2.jar
+xstream/src/java/com/thoughtworks/xstream/io/xml/SaxWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/TraxSource.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/SaxWriterTest.java
+xstream/website/content/changes.html
+xstream/website/content/team.html

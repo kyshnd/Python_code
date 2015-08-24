@@ -1,0 +1,15 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumSetConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AttributeAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/CGLIBMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DynamicProxyMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java

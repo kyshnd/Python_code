@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonWriter.java
+xstream/src/test/com/thoughtworks/acceptance/ExternalizableTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/OwnerOfExternalizable.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SomethingExternalizable.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java

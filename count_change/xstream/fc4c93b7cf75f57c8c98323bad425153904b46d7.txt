@@ -1,0 +1,4 @@
+xstream/.cvsignore
+xstream/maven.xml
+xstream/xdocs/download.xml
+xstream/xdocs/index.xml

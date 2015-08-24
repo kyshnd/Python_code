@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java

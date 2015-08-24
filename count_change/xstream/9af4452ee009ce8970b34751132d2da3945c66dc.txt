@@ -1,0 +1,3 @@
+xstream/pom.xml
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriterTestSuite.java

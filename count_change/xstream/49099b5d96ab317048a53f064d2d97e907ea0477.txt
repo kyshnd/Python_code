@@ -1,0 +1,3 @@
+CVSROOT/checkoutlist
+CVSROOT/dctrigger.rb
+CVSROOT/loginfo

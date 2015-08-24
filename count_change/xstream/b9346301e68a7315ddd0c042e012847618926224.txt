@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/XmlFriendlyReplacer.java
+xstream/src/test/com/thoughtworks/acceptance/XmlFriendlyDollarOnlyTest.java
+xstream/src/test/com/thoughtworks/acceptance/XmlFriendlyTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLWriterTest.java

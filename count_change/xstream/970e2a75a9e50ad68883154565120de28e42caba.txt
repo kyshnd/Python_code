@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonWriter.java

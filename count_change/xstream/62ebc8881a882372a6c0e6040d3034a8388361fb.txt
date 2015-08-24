@@ -1,0 +1,3 @@
+pom.xml
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumSingleValueConverter.java

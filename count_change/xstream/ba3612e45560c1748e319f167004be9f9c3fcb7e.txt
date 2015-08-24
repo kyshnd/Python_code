@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reference/CircularityException.java
+xstream/src/java/com/thoughtworks/xstream/converters/reference/CircularityTracker.java
+xstream/src/test/com/thoughtworks/xstream/converters/reference/CircularityTrackerTest.java

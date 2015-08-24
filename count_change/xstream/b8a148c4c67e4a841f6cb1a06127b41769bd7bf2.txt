@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTracker.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingReader.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/core/TreeMarshallerTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingReaderTest.java

@@ -1,0 +1,9 @@
+pom.xml
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/faq.html
+xstream/lib/cglib-nodep-2.1_3.jar
+xstream/lib/cglib-nodep-2.2.jar
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/CGLIBMapper.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java

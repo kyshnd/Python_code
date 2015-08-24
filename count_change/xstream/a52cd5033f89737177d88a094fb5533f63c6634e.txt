@@ -1,0 +1,10 @@
+xstream/src/java/com/thoughtworks/xstream/converters/ConversionException.java
+xstream/src/java/com/thoughtworks/xstream/converters/ErrorWriter.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/acceptance/ErrorTest.java

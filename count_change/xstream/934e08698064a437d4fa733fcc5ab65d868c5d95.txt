@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/path/Path.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTest.java

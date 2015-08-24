@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/QNameMap.java
+xstream/src/test/com/thoughtworks/acceptance/QNameMappedConcreteClassesTest.java

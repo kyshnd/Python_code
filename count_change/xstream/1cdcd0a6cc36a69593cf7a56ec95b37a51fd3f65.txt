@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AttributeMapper.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java

@@ -1,0 +1,12 @@
+pom.xml
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-hibernate/pom.xml
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentCollectionConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentMapConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentSortedMapConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentSortedSetConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/mapper/HibernateMapper.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/util/Hibernate.java
+xstream-hibernate/src/test/acceptance/hibernate/HibernateCollectionsTypeCompatibilityTest.java
+xstream-hibernate/src/test/acceptance/hibernate/HibernateReferenceTest.java

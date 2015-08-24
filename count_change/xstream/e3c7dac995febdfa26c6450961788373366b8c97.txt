@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/.cvsignore
+xstream/src/java/com/thoughtworks/xstream/converters/ConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/ArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultClassMapperTest.java

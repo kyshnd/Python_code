@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/CharConverter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java
+xstream/src/test/com/thoughtworks/acceptance/BasicTypesTest.java

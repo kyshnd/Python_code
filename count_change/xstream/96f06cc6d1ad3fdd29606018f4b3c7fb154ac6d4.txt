@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/EnumMapper.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/EnumConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/Fruit.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/PolymorphicEnum.java

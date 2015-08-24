@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/LookAndFeelConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/test/com/thoughtworks/acceptance/SwingTest.java

@@ -1,0 +1,4 @@
+xstream/lib/stax-1.2.0.jar
+xstream/lib/stax-1.2.0_rc2-dev.jar
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriter2Test.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriterTest.java

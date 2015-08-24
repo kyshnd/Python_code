@@ -1,0 +1,9 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream-distribution/src/content/json-tutorial.html
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterModeDroppingRootTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/MinimalJsonHierarchicalStreamDriverTest.java

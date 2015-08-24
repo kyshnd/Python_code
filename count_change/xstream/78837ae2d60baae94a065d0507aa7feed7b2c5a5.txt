@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/TextAttributeConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ClassStack.java
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/EnumMapConverterTest.java

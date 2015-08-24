@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapperWrapper.java

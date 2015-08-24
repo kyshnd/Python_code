@@ -1,0 +1,4 @@
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteSingleNodeXPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteSingleNodeXPathDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeSingleNodeXPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeSingleNodeXPathDuplicateReferenceTest.java

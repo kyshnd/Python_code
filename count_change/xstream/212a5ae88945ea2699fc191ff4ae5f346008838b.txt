@@ -1,0 +1,5 @@
+xstream/lib/stax-1.1.1-dev.jar
+xstream/lib/stax-api-1.0.jar
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxReaderTest.java

@@ -1,0 +1,3 @@
+distribution/pom.xml
+distribution/src/assembly-bin.xml
+distribution/src/assembly-src.xml

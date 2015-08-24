@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/xml/XMLReader.java
+xstream/src/java/com/thoughtworks/xstream/xml/dom/DomXMLReader.java
+xstream/src/java/com/thoughtworks/xstream/xml/dom4j/Dom4JXMLReader.java
+xstream/src/test/com/thoughtworks/xstream/xml/AbstractXMLReaderTest.java

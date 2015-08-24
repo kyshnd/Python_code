@@ -1,0 +1,13 @@
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/metrics/DeserializationSpeedMetric.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamBEAStax.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamDom.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamDom4J.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamJDom.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamKXml2.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamSjsxp.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamStax.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamWoodstox.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamXom.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamXpp.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamXpp3.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/parsers/ParserBenchmark.java

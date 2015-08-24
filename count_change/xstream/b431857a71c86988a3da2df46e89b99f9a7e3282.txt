@@ -1,0 +1,9 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/NamedCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/NamedMapConverter.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ParametrizedConverterTest.java

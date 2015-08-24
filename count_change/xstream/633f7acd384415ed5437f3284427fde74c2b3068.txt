@@ -1,0 +1,14 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteXPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteXPathDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteXPathNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeXPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeXPathDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeXPathNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java

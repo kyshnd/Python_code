@@ -1,0 +1,15 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/XStreamConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CustomObjectInputStream.java
+xstream/src/java/com/thoughtworks/xstream/io/StatefulWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JWriter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java
+xstream/src/test/com/thoughtworks/acceptance/XStreamConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStreamConvertionTest.java
+xstream/src/test/com/thoughtworks/xstream/io/StatefulWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DriverEndToEndTestSuite.java

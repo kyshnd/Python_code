@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/Z.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/ZConverter.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java

@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/util/Cloneables.java
+xstream/src/test/com/thoughtworks/xstream/core/util/CloneablesTest.java

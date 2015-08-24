@@ -1,0 +1,3 @@
+xstream/src/test/com/thoughtworks/acceptance/ImplicitArrayTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitMapTest.java

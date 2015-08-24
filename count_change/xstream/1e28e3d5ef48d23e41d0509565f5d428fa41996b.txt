@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CompositeClassLoader.java

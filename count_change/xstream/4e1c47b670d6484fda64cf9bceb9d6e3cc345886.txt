@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Primitives.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/DynamicProxyTest.java

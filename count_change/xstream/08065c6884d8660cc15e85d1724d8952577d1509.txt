@@ -1,0 +1,15 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractAttributedCharacterIteratorAttributeConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/util/OrderRetainingMap.java
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/InheritanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/OmitFieldsTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream12CompatibilityTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/AbstractReflectionProviderTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/FieldDictionaryTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByIDMarshallingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/core/util/OrderRetainingMapTest.java

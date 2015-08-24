@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDomAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDomReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XomReaderTest.java

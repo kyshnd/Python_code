@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractTreeReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomReader.java

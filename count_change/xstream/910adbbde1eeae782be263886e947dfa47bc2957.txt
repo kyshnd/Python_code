@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/mapper/EnumMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java

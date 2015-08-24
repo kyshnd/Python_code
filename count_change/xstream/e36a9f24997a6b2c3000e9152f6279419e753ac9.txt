@@ -1,0 +1,8 @@
+pom.xml
+xstream-distribution/pom.xml
+xstream-distribution/src/resources/logo-small.gif
+xstream-distribution/src/resources/logo.gif
+xstream-distribution/src/resources/style.css
+xstream-distribution/src/templates/logo-small.gif
+xstream-distribution/src/templates/logo.gif
+xstream-distribution/src/templates/style.css

@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/StackTraceElementConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/StackTraceElementFactory.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/StackTraceElementConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ThrowableConverterTest.java

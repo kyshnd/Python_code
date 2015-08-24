@@ -1,0 +1,7 @@
+xstream/LICENSE.txt
+xstream/maven.xml
+xstream/project.properties
+xstream/project.xml
+xstream/todo.txt
+xstream/xdocs/license.xml
+xstream/xdocs/navigation.xml

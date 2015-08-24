@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/core/util/XmlHeaderAwareReader.java
+xstream/src/test/com/thoughtworks/xstream/core/util/XmlHeaderAwareReaderTest.java

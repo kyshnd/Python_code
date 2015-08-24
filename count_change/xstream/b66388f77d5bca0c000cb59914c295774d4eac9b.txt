@@ -1,0 +1,3 @@
+xstream-website/lib/sitemesh-2.2.1.jar
+xstream-website/src/content/changes.html
+xstream-website/src/java/minimesh/Page.java

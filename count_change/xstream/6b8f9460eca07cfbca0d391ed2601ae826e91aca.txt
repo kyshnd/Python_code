@@ -1,0 +1,12 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamImplicit.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitMapTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ImplicitMapTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SampleMaps.java
+xstream/src/test/com/thoughtworks/xstream/mapper/ImplicitCollectionMapperTest.java

@@ -1,0 +1,3 @@
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java
+xstream/src/test/com/thoughtworks/acceptance/BooleanFieldsTest.java

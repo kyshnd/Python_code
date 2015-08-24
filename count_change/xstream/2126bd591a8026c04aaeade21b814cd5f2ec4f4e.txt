@@ -1,0 +1,5 @@
+xstream/README.txt
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDriver.java
+xstream/website/content/download.html
+xstream/website/content/tutorial.html

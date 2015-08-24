@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTracker.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/WithNamedList.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByIDMarshallingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java

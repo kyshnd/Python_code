@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/ReadResolveTest.java

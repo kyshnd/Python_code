@@ -1,0 +1,3 @@
+xstream-benchmark/pom.xml
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/package.html
+xstream/pom.xml

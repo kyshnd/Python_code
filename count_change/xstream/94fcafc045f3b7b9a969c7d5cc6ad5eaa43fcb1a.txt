@@ -1,0 +1,6 @@
+pom.xml
+xstream-benchmark/pom.xml
+xstream-builder/pom.xml
+xstream-distribution/pom.xml
+xstream-distribution/src/content/download.html
+xstream/pom.xml

@@ -1,0 +1,4 @@
+xstream/build.xml
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/HarmonyReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java

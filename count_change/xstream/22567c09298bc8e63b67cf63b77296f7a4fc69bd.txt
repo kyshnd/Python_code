@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProviderTest.java
+xstream/website/content/team.html

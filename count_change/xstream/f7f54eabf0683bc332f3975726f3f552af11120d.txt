@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/persistence/XmlArrayList.java
+xstream/src/java/com/thoughtworks/xstream/persistence/XmlMap.java
+xstream/src/java/com/thoughtworks/xstream/persistence/XmlSet.java
+xstream/src/test/com/thoughtworks/xstream/persistence/XmlArrayListTest.java

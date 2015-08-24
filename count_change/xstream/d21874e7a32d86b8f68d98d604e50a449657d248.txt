@@ -1,0 +1,3 @@
+xstream/build.xml
+xstream/jdk-1.4-specific.txt
+xstream/jdk-1.5-specific.txt

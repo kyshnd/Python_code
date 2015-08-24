@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/AddableImplicitCollectionMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java

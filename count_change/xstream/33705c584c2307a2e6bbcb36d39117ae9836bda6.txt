@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/ErrorReporter.java
+xstream/src/java/com/thoughtworks/xstream/converters/SingleValueConverterWrapper.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamReader.java

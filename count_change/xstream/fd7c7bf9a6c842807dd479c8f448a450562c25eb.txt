@@ -1,0 +1,3 @@
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java
+xstream/src/test/com/thoughtworks/acceptance/XmlFriendlyDollarOnlyTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DomWriterTest.java

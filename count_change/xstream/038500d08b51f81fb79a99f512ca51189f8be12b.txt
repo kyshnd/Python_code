@@ -1,0 +1,3 @@
+pom.xml
+xstream-benchmark/pom.xml
+xstream/pom.xml

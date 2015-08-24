@@ -1,0 +1,6 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/RegexPatternConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ThrowableConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SelfStreamingInstanceChecker.java
+xstream/src/java/com/thoughtworks/xstream/core/util/SelfStreamingInstanceChecker.java

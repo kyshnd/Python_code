@@ -1,0 +1,4 @@
+xstream-website/.cvsignore
+xstream/.cvsignore
+xstream/src/.cvsignore
+xstream/src/java/com/thoughtworks/xstream/.cvsignore

@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumSetConverter.java

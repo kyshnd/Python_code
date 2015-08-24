@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AwkwardCharactersTest.java
+xstream/src/test/com/thoughtworks/acceptance/BasicTypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/CustomConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/DefaultCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/EncodingTest.java
+xstream/src/test/com/thoughtworks/acceptance/JTableTest.java

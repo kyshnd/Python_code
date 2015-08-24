@@ -1,0 +1,13 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DomReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XppDomReaderTest.java

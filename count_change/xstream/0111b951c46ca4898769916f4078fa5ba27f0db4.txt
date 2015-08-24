@@ -1,0 +1,7 @@
+xstream-distribution/src/content/alias-tutorial.html
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/manual-tweaking-output.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ClassAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/PackageAliasingMapper.java
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java

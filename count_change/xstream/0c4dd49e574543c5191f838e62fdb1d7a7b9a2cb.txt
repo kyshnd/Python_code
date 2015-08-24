@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JXMLWriter.java

@@ -1,0 +1,11 @@
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ObjectIdDictionary.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/LocalConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SampleDynamicProxy.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractDocumentWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DomWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDK6StaxWriterTest.java

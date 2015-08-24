@@ -1,0 +1,1 @@
+xstream-builder/src/test/com/thoughtworks/acceptance/XStreamBuilderTest.java

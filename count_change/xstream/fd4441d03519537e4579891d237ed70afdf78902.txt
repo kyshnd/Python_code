@@ -1,0 +1,6 @@
+pom.xml
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/faq.html
+xstream/pom.xml
+xstream/src/test/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriverTest.java

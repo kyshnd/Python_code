@@ -1,0 +1,3 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java

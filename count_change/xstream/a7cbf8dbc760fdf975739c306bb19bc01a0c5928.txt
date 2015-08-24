@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java

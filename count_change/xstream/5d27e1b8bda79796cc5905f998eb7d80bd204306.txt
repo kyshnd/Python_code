@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java
+xstream/src/test/com/thoughtworks/xstream/mapper/DefaultClassMapperTest.java
+xstream/src/test/com/thoughtworks/xstream/mapper/ImplicitCollectionMapperTest.java
+xstream/src/test/com/thoughtworks/xstream/mapper/XmlFriendlyMapperTest.java

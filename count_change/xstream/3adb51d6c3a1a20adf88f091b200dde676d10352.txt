@@ -1,0 +1,9 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDriver.java

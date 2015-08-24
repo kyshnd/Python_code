@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamInclude.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationsTest.java

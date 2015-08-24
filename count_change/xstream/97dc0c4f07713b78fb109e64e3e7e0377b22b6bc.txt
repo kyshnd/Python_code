@@ -1,0 +1,9 @@
+xstream/src/test/com/thoughtworks/acceptance/annotations/AliasTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationFieldConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationReflectionConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationsTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AttributesTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/FieldConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/OmitFieldTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/XStream12AnnotationCompatibilityTest.java

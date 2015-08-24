@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/MarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java
+xstream/src/test/com/thoughtworks/acceptance/DataHolderTest.java

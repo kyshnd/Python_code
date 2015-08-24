@@ -1,0 +1,5 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java

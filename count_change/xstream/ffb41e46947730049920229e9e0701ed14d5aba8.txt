@@ -1,0 +1,12 @@
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/model/FiveBean.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/model/OneBean.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamDriver.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamKXml2DOM.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/products/XStreamXpp3DOM.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/targets/BasicTarget.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/targets/ExtendedTarget.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/targets/JavaBeanTarget.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/targets/ReflectionTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/parsers/ParserBenchmark.java
+xstream-distribution/src/content/parser-benchmarks.html
+xstream-distribution/src/content/website.xml

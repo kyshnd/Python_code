@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultElementMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultNameMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/ElementMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/NameMapper.java

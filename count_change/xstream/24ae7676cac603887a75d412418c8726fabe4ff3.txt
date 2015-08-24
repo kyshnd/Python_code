@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/persistence/XmlSet.java
+xstream/src/test/com/thoughtworks/xstream/persistence/XmlSetTest.java

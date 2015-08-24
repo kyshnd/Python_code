@@ -1,0 +1,6 @@
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java
+xstream/src/test/com/thoughtworks/acceptance/CustomSerializationTest.java
+xstream/src/test/com/thoughtworks/acceptance/InheritanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/WriteReplaceTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/StatusEnum.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java

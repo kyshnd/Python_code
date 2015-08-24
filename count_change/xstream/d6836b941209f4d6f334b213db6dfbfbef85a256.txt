@@ -1,0 +1,14 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConversionException.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/ThreadSafeSimpleDateFormat.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ObjectIdDictionary.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Hardware.java
+xstream/src/test/com/thoughtworks/acceptance/objects/OpenSourceSoftware.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SampleDynamicProxy.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Software.java

@@ -1,0 +1,11 @@
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/Metric.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/metrics/DeserializationSpeedMetric.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/metrics/SerializationSpeedMetric.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/metrics/SizeMetric.java
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/reporters/MultiReporter.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/BasicTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/ExtendedTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/ReflectionTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/SerializableTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/metric/CharacterCountMetric.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/AbstractXmlFriendlyReplacer.java

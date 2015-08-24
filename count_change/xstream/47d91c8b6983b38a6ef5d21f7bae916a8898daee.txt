@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonWriter.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/Handler.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/Protocol.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterFormatTest.java

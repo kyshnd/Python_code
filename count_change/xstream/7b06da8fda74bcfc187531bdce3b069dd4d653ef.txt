@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/UnmarshallingContext.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java

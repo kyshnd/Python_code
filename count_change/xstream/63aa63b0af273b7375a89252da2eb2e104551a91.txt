@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/core/util/DependencyInjectionFactory.java
+xstream/src/java/com/thoughtworks/xstream/core/util/TypedNull.java
+xstream/src/test/com/thoughtworks/xstream/core/util/DependencyInjectionFactoryTest.java

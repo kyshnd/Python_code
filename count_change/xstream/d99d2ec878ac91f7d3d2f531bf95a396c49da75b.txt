@@ -1,0 +1,11 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream-distribution/src/content/graphs.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/io/path/Path.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteXPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeXPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTest.java

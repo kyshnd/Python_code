@@ -1,0 +1,11 @@
+xstream/lib/dom4j-license.txt
+xstream/lib/jdom-license.txt
+xstream/lib/joda-time-license.txt
+xstream/lib/stax-1.1.2-dev.jar
+xstream/lib/stax-1.2.0_rc2-dev.jar
+xstream/lib/stax-api-1.0.1.jar
+xstream/lib/stax-api-1.0.jar
+xstream/lib/stax-license.txt
+xstream/src/test/com/thoughtworks/acceptance/QNameMappedConcreteClassesTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriter2Test.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriterTest.java

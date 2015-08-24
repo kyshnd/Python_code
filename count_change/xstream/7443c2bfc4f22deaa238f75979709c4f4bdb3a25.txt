@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/AbstractDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/binary/BinaryStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXppDomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXppDriver.java

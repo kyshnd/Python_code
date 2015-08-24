@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/ArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/xml/XMLReader.java
+xstream/src/java/com/thoughtworks/xstream/xml/dom/DomXMLReader.java
+xstream/src/java/com/thoughtworks/xstream/xml/dom4j/Dom4JXMLReader.java
+xstream/src/test/com/thoughtworks/xstream/xml/AbstractXMLReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/xml/dom/DomXMLReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/xml/dom4j/Dom4JXMLReaderTest.java

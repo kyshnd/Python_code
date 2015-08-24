@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/xml/xppdom/XppDomComparator.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xppdom/XppDomComparatorTest.java

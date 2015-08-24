@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XppReaderTest.java

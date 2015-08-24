@@ -1,0 +1,8 @@
+xstream-website/src/content/changes.html
+xstream-website/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProperty.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/PropertyDictionary.java
+xstream/src/test/com/thoughtworks/xstream/converters/javabean/JavaBeanConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/javabean/PropertyDictionaryTest.java

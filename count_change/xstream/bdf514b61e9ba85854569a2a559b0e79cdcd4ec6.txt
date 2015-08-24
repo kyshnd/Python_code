@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTracker.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackerTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingWriterTest.java

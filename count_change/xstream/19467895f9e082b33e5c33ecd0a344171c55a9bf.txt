@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ISO8601GregorianCalendarConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ISO8601SqlTimestampConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SubjectConverter.java
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java

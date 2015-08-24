@@ -1,0 +1,11 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/mapper/OuterClassMapper.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/FinalFieldsTest.java
+xstream/src/test/com/thoughtworks/acceptance/InnerClassesTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/FieldDictionaryTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java

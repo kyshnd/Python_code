@@ -1,0 +1,2 @@
+xstream-distribution/src/content/changes.html
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/mapper/HibernateMapper.java

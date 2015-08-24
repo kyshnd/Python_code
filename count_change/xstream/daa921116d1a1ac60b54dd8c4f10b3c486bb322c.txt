@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/xml/path/PathTracker.java
+xstream/src/java/com/thoughtworks/xstream/xml/path/PathTrackingXMLWriter.java
+xstream/src/test/com/thoughtworks/xstream/xml/path/PathTrackerTest.java
+xstream/src/test/com/thoughtworks/xstream/xml/path/PathTrackingXMLWriterTest.java

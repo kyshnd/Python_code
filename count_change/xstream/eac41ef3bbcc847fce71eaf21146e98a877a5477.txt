@@ -1,0 +1,4 @@
+xstream-distribution/src/content/security.html
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/security/HibernateProxyTypePermission.java
+xstream/src/java/com/thoughtworks/xstream/security/CGLIBProxyTypePermission.java
+xstream/src/java/com/thoughtworks/xstream/security/ProxyTypePermission.java

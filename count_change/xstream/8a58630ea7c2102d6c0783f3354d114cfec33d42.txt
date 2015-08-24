@@ -1,0 +1,3 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ExternalizableConverter.java
+xstream/src/test/com/thoughtworks/acceptance/ExternalizableTest.java

@@ -1,0 +1,8 @@
+xstream/.cvsignore
+xstream/src/java/com/thoughtworks/xstream/converters/extended/BackupHierarchicalStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/StackTraceElementConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ThrowableConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/StackTraceElementConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ThrowableConverterTest.java
+xstream/website/content/changes.html
+xstream/website/content/team.html

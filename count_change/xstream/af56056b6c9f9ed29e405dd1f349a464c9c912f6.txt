@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/ArrayConverter.java
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/ReflectionObjectGraphTest.java

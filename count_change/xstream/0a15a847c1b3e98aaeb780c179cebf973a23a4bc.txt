@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/MarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/core/UnmarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ClassStack.java
+xstream/src/java/com/thoughtworks/xstream/core/util/QuickWriter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/StringStack.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java
+xstream/src/test/com/thoughtworks/xstream/core/util/StringStackTest.java

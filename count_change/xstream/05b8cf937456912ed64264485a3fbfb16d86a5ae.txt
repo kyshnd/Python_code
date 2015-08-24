@@ -1,0 +1,5 @@
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/strings/Main.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/strings/StringArrayTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/strings/StringNonCachingConverter.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/strings/StringWithSynchronizedWeakHashMapConverter.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/strings/StringWithWeakHashMapConverter.java

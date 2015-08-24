@@ -1,0 +1,7 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConversionException.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/TextAttributeConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializationMethodInvoker.java
+xstream/src/test/com/thoughtworks/acceptance/SwingTest.java

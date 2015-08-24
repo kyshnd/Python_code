@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/DefaultFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldKey.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ImmutableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/NativeFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/OrderRetainingMap.java
+xstream/src/test/com/thoughtworks/acceptance/CustomFieldKeySorterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/NativeFieldKeySorterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorterTest.java

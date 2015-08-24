@@ -1,0 +1,2 @@
+xstream/pom.xml
+xstream/src/test/com/thoughtworks/acceptance/LambdaTest.java

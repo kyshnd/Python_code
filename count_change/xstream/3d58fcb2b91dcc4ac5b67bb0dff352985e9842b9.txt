@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/acceptance/ImplicitMapTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ImplicitMapTest.java

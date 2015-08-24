@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SqlDateConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SqlTimeConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SqlTimestampConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java

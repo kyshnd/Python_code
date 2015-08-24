@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceUnmarshaller.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteSingleNodeXPathReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbsoluteXPathReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/IDReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeSingleNodeXPathReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/RelativeXPathReferenceTest.java

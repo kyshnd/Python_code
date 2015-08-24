@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/mapper/XmlFriendlyMapper.java
+xstream/src/test/com/thoughtworks/xstream/mapper/XmlFriendlyMapperTest.java

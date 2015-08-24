@@ -1,0 +1,10 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDom2Driver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDom2Reader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDom2Writer.java
+xstream/src/test/com/thoughtworks/xstream/io/DriverEndToEndTestSuite.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDom2AcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDom2ReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDom2WriterTest.java

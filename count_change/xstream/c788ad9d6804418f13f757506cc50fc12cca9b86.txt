@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultElementMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/ElementMapper.java

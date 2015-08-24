@@ -1,0 +1,10 @@
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/XmlFriendlyBenchmark.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/AbstractXmlFriendlyReplacer.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/CachingIterativeAppenderWithShortcut.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/IterativeAppender.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/IterativeAppenderWithShortcut.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/IterativeReplacer.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/product/XStream122Replacer.java
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/io/xml/XmlFriendlyReplacer.java

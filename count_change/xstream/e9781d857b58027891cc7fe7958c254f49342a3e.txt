@@ -1,0 +1,8 @@
+xstream-distribution/src/content/alias-tutorial.html
+xstream-distribution/src/content/annotations-tutorial.html
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/index.html
+xstream-distribution/src/content/manual-tweaking-output.html
+xstream-distribution/src/content/news.html
+xstream-distribution/src/content/tutorial.html

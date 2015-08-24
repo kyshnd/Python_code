@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/SingleValueConverterWrapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/AbstractSingleValueConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeAliasTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationsTest.java

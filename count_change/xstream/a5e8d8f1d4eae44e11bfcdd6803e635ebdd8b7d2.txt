@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/core/util/Primitives.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ArrayMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ClassAliasingMapper.java

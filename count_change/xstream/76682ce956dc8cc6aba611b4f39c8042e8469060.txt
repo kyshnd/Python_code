@@ -1,0 +1,6 @@
+xstream/LICENSE.txt
+xstream/lib/commons-lang-license.txt
+xstream/lib/dom4j-license.txt
+xstream/lib/junit-license.txt
+xstream/lib/xpp3-license.txt
+xstream/website/content/license.html

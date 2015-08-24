@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractDocumentWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DomWriterTest.java

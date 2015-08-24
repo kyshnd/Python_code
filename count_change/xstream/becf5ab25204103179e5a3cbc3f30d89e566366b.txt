@@ -1,0 +1,10 @@
+xstream/lib/jmock-2004-03-19.jar
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/test/com/thoughtworks/acceptance/InheritanceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/AbstractReflectionProviderTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProviderTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProviderTest.java

@@ -1,0 +1,3 @@
+xstream/pom.xml
+xstream/src/test/com/thoughtworks/acceptance/SecurityManagerTest.java
+xstream/src/test/com/thoughtworks/xstream/testutil/DynamicSecurityManager.java

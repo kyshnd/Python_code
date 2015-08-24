@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/SaxWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/SaxWriterTest.java

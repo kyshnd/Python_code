@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/SecurityVulnerabilityTest.java

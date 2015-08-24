@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SqlTimestampConverter.java
+xstream/src/java/com/thoughtworks/xstream/io/AttributeNameIterator.java

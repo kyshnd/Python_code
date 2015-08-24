@@ -1,0 +1,4 @@
+xstream/lib/joda-time-1.2.1.jar
+xstream/lib/joda-time-1.2.jar
+xstream/lib/xpp3-1.1.3.4-RC8_min.jar
+xstream/lib/xpp3_min-1.1.3.4.O.jar

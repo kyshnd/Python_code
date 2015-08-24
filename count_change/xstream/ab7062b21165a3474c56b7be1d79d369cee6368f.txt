@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/FieldDictionaryTest.java

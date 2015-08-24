@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/acceptance/DefaultCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/DefaultImplementationTest.java

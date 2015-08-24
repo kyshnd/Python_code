@@ -1,0 +1,2 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java

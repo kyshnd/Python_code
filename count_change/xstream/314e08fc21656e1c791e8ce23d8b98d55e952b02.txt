@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/ImplicitCollectionDef.java
+xstream/src/java/com/thoughtworks/xstream/alias/ImplicitCollectionMapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializationMethodInvoker.java
+xstream/src/java/com/thoughtworks/xstream/core/AddableImplicitCollectionMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/ImplicitCollectionDefImpl.java
+xstream/src/java/com/thoughtworks/xstream/core/NamedItemType.java
+xstream/src/test/com/thoughtworks/acceptance/CustomSerializationTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/xstream/core/AddableImplicitCollectionMapperTest.java
+xstream/website/content/team.html

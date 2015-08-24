@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/StackTraceElementConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ThrowableConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/FieldDictionaryTest.java

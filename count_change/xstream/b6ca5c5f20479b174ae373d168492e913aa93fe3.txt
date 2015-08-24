@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/io/binary/BinaryStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AbstractXmlFriendlyMapper.java
+xstream/src/test/com/thoughtworks/xstream/converters/basic/DateConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ISO8601GregorianCalendarConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ToStringConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/binary/TokenTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java

@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/FontConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/FontConverterTest.java

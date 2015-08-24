@@ -1,0 +1,9 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java
+xstream/src/test/com/thoughtworks/acceptance/TreeMapAndTreeSetTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream13CompatibilityTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterFormatTest.java

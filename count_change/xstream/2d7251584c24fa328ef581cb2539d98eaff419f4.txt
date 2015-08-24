@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/XStreamer.java
+xstream/src/test/com/thoughtworks/acceptance/XStreamerTest.java

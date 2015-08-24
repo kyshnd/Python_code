@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/xml/xpp3/Xpp3DomBuilder.java
+xstream/src/test/com/thoughtworks/xstream/xml/AbstractXMLReaderTest.java

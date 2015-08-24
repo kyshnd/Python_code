@@ -1,0 +1,6 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CustomObjectOutputStream.java
+xstream/src/java/com/thoughtworks/xstream/core/util/OrderRetainingMap.java
+xstream/src/test/com/thoughtworks/acceptance/CustomSerializationTest.java
+xstream/src/test/com/thoughtworks/xstream/core/util/OrderRetainingMapTest.java

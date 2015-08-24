@@ -1,0 +1,6 @@
+CVSROOT/editinfo
+CVSROOT/modules
+CVSROOT/notify
+CVSROOT/rcsinfo
+CVSROOT/taginfo
+CVSROOT/verifymsg

@@ -1,0 +1,3 @@
+pom.xml
+xstream-distribution/src/content/references.html
+xstream-distribution/src/templates/skin.html

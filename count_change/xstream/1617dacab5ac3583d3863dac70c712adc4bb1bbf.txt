@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/TreeMapAndTreeSetTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterFormatTest.java

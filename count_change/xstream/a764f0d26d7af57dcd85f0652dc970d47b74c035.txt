@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/FontConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/test/com/thoughtworks/xstream/core/JVMTest.java

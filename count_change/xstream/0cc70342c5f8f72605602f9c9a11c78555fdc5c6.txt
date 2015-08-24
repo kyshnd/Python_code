@@ -1,0 +1,4 @@
+README.txt
+pom.xml
+xstream-website/pom.xml
+xstream/pom.xml

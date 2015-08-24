@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/InheritanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java
+xstream/website/content/changes.html

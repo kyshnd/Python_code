@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/CustomReflectionConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java

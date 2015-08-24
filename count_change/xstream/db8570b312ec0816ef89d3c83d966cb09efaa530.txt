@@ -1,0 +1,8 @@
+xstream/src/test/com/thoughtworks/acceptance/AbstractCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java
+xstream/src/test/com/thoughtworks/acceptance/ConcreteClassesTest.java
+xstream/src/test/com/thoughtworks/acceptance/CustomClassesTest.java
+xstream/src/test/com/thoughtworks/acceptance/ErrorTest.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/TreeMapAndTreeSetTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java

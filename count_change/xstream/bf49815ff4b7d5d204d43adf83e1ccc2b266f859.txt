@@ -1,0 +1,15 @@
+xstream/project.xml
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java
+xstream/src/test/com/thoughtworks/acceptance/ConcreteClassesTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java
+xstream/src/test/com/thoughtworks/acceptance/StandardObject.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Hardware.java
+xstream/src/test/com/thoughtworks/acceptance/objects/OpenSourceSoftware.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SampleLists.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Software.java
+xstream/src/test/com/thoughtworks/someobjects/FunnyConstructor.java
+xstream/src/test/com/thoughtworks/someobjects/WithList.java
+xstream/src/test/com/thoughtworks/someobjects/X.java
+xstream/src/test/com/thoughtworks/someobjects/Y.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverterTest.java

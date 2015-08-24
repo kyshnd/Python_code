@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByIDMarshallingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java

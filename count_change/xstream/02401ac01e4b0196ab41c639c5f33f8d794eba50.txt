@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializationMethodInvoker.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AttributesTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SerializableConverterTest.java
