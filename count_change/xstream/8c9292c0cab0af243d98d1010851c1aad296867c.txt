@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaMethodConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CompositeClassLoader.java
+xstream/website/content/changes.html

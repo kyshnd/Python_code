@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/XStream11CompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream11XmlFriendlyTest.java
+xstream/src/test/com/thoughtworks/acceptance/XmlFriendlyTest.java

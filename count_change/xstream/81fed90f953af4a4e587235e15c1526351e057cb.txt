@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/persistence/FilePersistenceStrategy.java
+xstream/src/java/com/thoughtworks/xstream/persistence/FileStreamStrategy.java

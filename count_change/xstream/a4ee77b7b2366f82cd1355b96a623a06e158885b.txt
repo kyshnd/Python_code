@@ -1,0 +1,14 @@
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/CacheBenchmark.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/model/Five.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/model/One.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/model/SerializableFive.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/model/SerializableOne.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/AliasedAttributeCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/Cache122.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/NoCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/RealClassCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/XStreamCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/BasicTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/ExtendedTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/ReflectionTarget.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/targets/SerializableTarget.java

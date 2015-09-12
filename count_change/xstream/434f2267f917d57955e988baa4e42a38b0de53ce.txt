@@ -1,0 +1,16 @@
+xstream/src/java/com/thoughtworks/xstream/converters/Converter.java
+xstream/src/java/com/thoughtworks/xstream/converters/UnmarshallingContext.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/AbstractBasicConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/NullConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/ArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CharArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/PropertiesConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/UnmarshallingContextAdaptor.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xpp3/Xpp3XStreamTest.java

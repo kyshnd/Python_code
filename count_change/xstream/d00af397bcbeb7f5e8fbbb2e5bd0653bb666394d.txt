@@ -1,0 +1,4 @@
+xstream/lib/jdom-1.0.jar
+xstream/lib/jdom-b10.jar
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDomAcceptanceTest.java

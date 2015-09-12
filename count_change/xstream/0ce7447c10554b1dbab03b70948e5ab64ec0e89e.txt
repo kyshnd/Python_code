@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/annotations/Annotations.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConfig.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationsTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/XStreamAnnotationTest.java

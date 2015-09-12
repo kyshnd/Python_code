@@ -1,0 +1,6 @@
+BUILD.txt
+LICENSE.txt
+README.txt
+xstream-distribution/src/assembly/assembly-bin.xml
+xstream/LICENSE.txt
+xstream/build.xml

@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/DateConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ThreadSafeSimpleDateFormat.java

@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXmlReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java

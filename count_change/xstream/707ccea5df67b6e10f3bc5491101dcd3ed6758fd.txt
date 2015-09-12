@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/mapper/AbstractXmlFriendlyMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/XStream11XmlFriendlyMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/XmlFriendlyMapper.java

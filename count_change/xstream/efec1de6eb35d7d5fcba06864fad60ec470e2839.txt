@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/converters/basic/StringConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/WeakCache.java
+xstream/src/test/com/thoughtworks/xstream/core/util/WeakCacheTest.java

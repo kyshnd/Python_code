@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/ObjectTree.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/ReflectionObjectGraph.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/ObjectGraphReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/ReflectionObjectGraphTest.java

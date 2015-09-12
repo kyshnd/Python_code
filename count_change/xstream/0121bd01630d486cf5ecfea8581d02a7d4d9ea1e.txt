@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/core/util/Cloneables.java
+xstream/src/java/com/thoughtworks/xstream/io/AbstractReader.java
+xstream/src/java/com/thoughtworks/xstream/io/AbstractWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/naming/NameCoder.java
+xstream/src/java/com/thoughtworks/xstream/io/naming/NameCoderWrapper.java
+xstream/src/java/com/thoughtworks/xstream/io/naming/NoNameCoder.java
+xstream/src/java/com/thoughtworks/xstream/io/naming/StaticNameCoder.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XmlFriendlyNameCoder.java

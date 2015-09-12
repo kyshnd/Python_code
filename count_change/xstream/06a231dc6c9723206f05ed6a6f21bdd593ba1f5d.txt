@@ -1,0 +1,2 @@
+xstream/project.xml
+xstream/xdocs/images/thoughtworks.jpg

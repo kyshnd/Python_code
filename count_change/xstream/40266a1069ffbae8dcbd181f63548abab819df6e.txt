@@ -1,0 +1,5 @@
+xstream/.cvsignore
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/X.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xppdom/Xpp3XStreamTest.java

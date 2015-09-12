@@ -1,0 +1,2 @@
+xstream-distribution/src/content/annotations-tutorial.html
+xstream-distribution/src/content/faq.html

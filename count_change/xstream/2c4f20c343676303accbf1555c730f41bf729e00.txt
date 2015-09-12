@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ClassStack.java
+xstream/src/java/com/thoughtworks/xstream/core/util/IntQueue.java
+xstream/src/java/com/thoughtworks/xstream/core/util/PrioritizedList.java
+xstream/src/java/com/thoughtworks/xstream/core/util/QuickWriter.java
+xstream/src/test/com/thoughtworks/xstream/core/util/IntQueueTest.java
+xstream/src/test/com/thoughtworks/xstream/core/util/PrioritizedListTest.java

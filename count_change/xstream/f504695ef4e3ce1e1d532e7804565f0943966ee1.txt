@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/CompactWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/BEAStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/PrettyPrintWriterTest.java

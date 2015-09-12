@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/test/com/thoughtworks/acceptance/AwkwardCharactersTest.java

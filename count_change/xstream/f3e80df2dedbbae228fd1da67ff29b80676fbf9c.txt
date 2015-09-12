@@ -1,0 +1,9 @@
+xstream-website/src/content/changes.html
+xstream-website/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractTreeReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java

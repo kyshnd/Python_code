@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SerializableConverterTest.java

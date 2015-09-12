@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/CompactWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java

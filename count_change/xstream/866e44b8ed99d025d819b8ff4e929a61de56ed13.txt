@@ -1,0 +1,4 @@
+xstream-builder/src/java/com/thoughtworks/xstream/builder/XStreamBuilder.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/AbsoluteReferencesProcessor.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/IdReferencesProcessor.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/NoReferencesProcessor.java

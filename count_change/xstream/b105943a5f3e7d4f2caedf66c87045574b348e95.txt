@@ -1,0 +1,5 @@
+pom.xml
+settings-template.xml
+xstream-benchmark/pom.xml
+xstream-distribution/pom.xml
+xstream/pom.xml

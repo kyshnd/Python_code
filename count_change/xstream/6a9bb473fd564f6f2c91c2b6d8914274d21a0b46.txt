@@ -1,0 +1,13 @@
+xstream/src/java/com/thoughtworks/xstream/InitializationException.java
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/XStreamException.java
+xstream/src/java/com/thoughtworks/xstream/alias/CannotResolveClassException.java
+xstream/src/java/com/thoughtworks/xstream/annotations/Annotations.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConversionException.java
+xstream/src/java/com/thoughtworks/xstream/converters/ErrorWriter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ObjectAccessException.java
+xstream/src/java/com/thoughtworks/xstream/core/BaseException.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/StreamException.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/ConversionExceptionTest.java

@@ -1,0 +1,6 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumToStringConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/EnumSetConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/EnumToStringConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/PolymorphicEnum.java

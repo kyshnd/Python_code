@@ -1,0 +1,13 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/PropertyDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializationMethodInvoker.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/Caching.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/mapper/CachingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/EnumMapper.java

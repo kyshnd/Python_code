@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/xstream/io/DriverEndToEndTestSuite.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DriverEndToEndTestSuite.java

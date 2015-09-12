@@ -1,0 +1,2 @@
+xstream/project.xml
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java

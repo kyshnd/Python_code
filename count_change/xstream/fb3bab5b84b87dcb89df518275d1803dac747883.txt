@@ -1,0 +1,8 @@
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/Harness.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/Metric.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/Reporter.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/metrics/DeserializationSpeedMetric.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/metrics/SerializationSpeedMetric.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/metrics/SizeMetric.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/reporters/HtmlReporter.java
+xstream/src/tools/com/thoughtworks/xstream/tools/benchmark/reporters/TextReporter.java

@@ -1,0 +1,8 @@
+pom.xml
+xstream-website/pom.xml
+xstream-website/src/content/download.html
+xstream-website/src/content/index.html
+xstream/build.xml
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamWriter.java
+xstream/src/java/com/thoughtworks/xstream/persistence/FileStreamStrategy.java

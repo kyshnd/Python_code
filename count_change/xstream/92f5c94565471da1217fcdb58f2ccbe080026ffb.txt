@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/lookup/DefaultConverterLookup.java

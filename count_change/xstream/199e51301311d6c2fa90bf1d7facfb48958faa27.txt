@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/ConversionException.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ObjectAccessException.java
+xstream/src/java/com/thoughtworks/xstream/core/BaseException.java
+xstream/src/java/com/thoughtworks/xstream/io/StreamException.java

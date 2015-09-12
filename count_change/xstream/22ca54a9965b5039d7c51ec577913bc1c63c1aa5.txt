@@ -1,0 +1,7 @@
+xstream/lib/jettison-1.0-RC1.jar
+xstream/lib/jettison-license.txt
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Category.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Product.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriverTest.java

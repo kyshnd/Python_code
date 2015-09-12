@@ -1,0 +1,4 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ClassLoaderReference.java
+xstream/src/test/com/thoughtworks/acceptance/ClassLoaderTest.java

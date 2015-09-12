@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/UnmarshallingContextAdaptor.java

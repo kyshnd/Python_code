@@ -1,0 +1,16 @@
+xstream/src/java/com/thoughtworks/xstream/core/util/FastStack.java
+xstream/src/java/com/thoughtworks/xstream/io/AttributeNameIterator.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractDocumentReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractPullReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractTreeReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/xppdom/Xpp3DomBuilder.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLReaderTest.java

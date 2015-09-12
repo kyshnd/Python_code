@@ -1,0 +1,10 @@
+pom.xml
+xstream-benchmark/pom.xml
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/CacheBenchmark.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/AliasedAttributeCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/Cache122.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/DefaultImplementationCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/NoCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/RealClassCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/SerializedClassCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/cache/products/XStreamCache.java

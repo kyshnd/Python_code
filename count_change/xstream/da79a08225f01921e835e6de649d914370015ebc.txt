@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultImplementationsMapper.java
+xstream/src/test/com/thoughtworks/acceptance/InheritanceTest.java
+xstream/src/test/com/thoughtworks/xstream/persistence/FilePersistenceStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/persistence/FileStreamStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/persistence/XmlArrayListTest.java

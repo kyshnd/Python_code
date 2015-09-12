@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/mapper/XmlFriendlyMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/XmlMapperConfiguration.java

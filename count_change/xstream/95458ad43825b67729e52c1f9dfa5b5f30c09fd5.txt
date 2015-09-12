@@ -1,0 +1,2 @@
+pom.xml
+xstream-distribution/src/content/changes.html

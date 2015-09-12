@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/persistence/XMLMap.java
+xstream/src/java/com/thoughtworks/xstream/persistence/XmlMap.java
+xstream/src/test/com/thoughtworks/xstream/persistence/XMLMapTest.java
+xstream/src/test/com/thoughtworks/xstream/persistence/XmlMapTest.java

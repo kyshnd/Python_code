@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java
+xstream/src/test/com/thoughtworks/acceptance/TreeMapAndTreeSetTest.java

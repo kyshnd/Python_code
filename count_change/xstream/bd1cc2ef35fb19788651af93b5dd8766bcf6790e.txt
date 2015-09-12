@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/UnmarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ClassStack.java

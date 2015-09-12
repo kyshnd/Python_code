@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationConfiguration.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationReflectionConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationsTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ImplicitCollectionTest.java

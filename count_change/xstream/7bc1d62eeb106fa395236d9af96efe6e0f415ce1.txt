@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/InstanceResolver.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java

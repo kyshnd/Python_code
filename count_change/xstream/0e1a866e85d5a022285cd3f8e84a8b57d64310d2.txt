@@ -1,0 +1,6 @@
+xstream/lib/jdom-b10.jar
+xstream/lib/jdom-license.txt
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDomAcceptanceTest.java

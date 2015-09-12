@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/persistence/FileStreamStrategy.java
+xstream/src/java/com/thoughtworks/xstream/persistence/KeyNamingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/persistence/NamingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/persistence/StreamStrategy.java
+xstream/src/java/com/thoughtworks/xstream/persistence/XmlMap.java
+xstream/src/test/com/thoughtworks/xstream/persistence/FileStreamStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/persistence/KeyNamingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/persistence/XmlMapTest.java

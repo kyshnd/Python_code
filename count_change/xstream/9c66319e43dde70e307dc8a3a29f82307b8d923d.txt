@@ -1,0 +1,5 @@
+xstream-distribution/src/content/architecture.html
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/manual-tweaking-output.html
+xstream-distribution/src/content/tutorial.html
+xstream-distribution/src/content/website.xml

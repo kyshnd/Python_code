@@ -1,0 +1,15 @@
+xstream/src/java/com/thoughtworks/xstream/MarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/AddableImplicitCollectionMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/MapBackedDataHolder.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Base64Encoder.java
+xstream/src/test/com/thoughtworks/acceptance/DataHolderTest.java

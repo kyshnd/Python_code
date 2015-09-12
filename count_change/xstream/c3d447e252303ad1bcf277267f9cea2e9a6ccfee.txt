@@ -1,0 +1,6 @@
+.gitattributes
+.gitignore
+xstream-builder/.gitignore
+xstream-distribution/.gitignore
+xstream-hibernate/.gitignore
+xstream/.gitignore

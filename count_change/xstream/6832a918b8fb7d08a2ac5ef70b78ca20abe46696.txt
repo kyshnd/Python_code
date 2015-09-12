@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/mapper/ArrayMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java

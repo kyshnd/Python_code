@@ -1,0 +1,9 @@
+xstream-builder/src/java/com/thoughtworks/xstream/builder/XStreamBuilder.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/AbsoluteReferencesProcessor.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/AnnotatedTypeProcessor.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/IdReferencesProcessor.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/NoReferencesProcessor.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/processor/annotations/AnnotatedTypeProcessor.java
+xstream-builder/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream-builder/src/test/com/thoughtworks/acceptance/XStreamBuilderTest.java
+xstream-builder/src/test/com/thoughtworks/acceptance/annotations/XStreamBuilderAnnotationsTest.java

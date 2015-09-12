@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ImmutableTypesMapper.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultClassMapperTest.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultMapperTest.java

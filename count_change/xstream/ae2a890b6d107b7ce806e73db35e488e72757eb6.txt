@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxWriter.java

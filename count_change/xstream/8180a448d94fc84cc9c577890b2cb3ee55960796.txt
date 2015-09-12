@@ -1,0 +1,7 @@
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentCollectionConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentMapConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentSortedMapConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernatePersistentSortedSetConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/converter/HibernateProxyConverter.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/mapper/HibernateMapper.java
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/util/Hibernate.java

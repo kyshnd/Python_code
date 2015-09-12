@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JettisonStaxWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JettisonMappedXmlDriverTest.java

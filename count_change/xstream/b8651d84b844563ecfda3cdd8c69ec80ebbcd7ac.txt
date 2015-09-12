@@ -1,0 +1,8 @@
+xstream/website/content/download.html
+xstream/website/content/index.html
+xstream/website/content/mailing-lists.html
+xstream/website/content/news.html
+xstream/website/content/repository.html
+xstream/website/content/versioning.html
+xstream/website/templates/skin.html
+xstream/website/templates/style.css

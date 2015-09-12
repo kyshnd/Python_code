@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java

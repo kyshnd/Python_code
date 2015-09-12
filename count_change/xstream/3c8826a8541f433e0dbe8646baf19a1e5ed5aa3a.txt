@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SunLimitedUnsafeReflectionProviderTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SunUnsafeReflectionProviderTest.java

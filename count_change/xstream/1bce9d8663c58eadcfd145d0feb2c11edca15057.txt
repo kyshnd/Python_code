@@ -1,0 +1,12 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/AbstractReader.java
+xstream/src/java/com/thoughtworks/xstream/io/ExtendedHierarchicalStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/ReaderWrapper.java
+xstream/src/java/com/thoughtworks/xstream/io/binary/BinaryStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractPullReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomReader.java
+xstream/src/test/com/thoughtworks/xstream/io/DriverEndToEndTestSuite.java

@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapperWrapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/Mapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java

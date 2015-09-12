@@ -1,0 +1,9 @@
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingXMLWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackerTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingXMLWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Dom4JReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DomReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Xpp3ReaderTest.java

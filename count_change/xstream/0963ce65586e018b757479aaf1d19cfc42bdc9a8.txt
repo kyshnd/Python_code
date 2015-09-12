@@ -1,0 +1,6 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitArrayTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitMapTest.java
+xstream/src/test/com/thoughtworks/acceptance/OmitFieldsTest.java

@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java

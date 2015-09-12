@@ -1,0 +1,3 @@
+xstream/website/content/website.xml
+xstream/website/templates/skin.html
+xstream/website/templates/style.css

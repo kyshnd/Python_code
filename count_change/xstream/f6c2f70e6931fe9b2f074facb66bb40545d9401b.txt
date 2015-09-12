@@ -1,0 +1,3 @@
+xstream/lib/joda-time-0.98.jar
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ISO8601DateConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ISO8601DateConverterTest.java

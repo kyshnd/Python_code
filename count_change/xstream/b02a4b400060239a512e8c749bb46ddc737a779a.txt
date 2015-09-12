@@ -1,0 +1,6 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaClassConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaFieldConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaMethodConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AliasTest.java

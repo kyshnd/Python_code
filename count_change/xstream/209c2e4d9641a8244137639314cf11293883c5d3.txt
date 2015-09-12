@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/base64/Base64Encoder.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/base64/Base64EncoderTest.java
+xstream/website/content/changes.html
+xstream/website/content/converters.html

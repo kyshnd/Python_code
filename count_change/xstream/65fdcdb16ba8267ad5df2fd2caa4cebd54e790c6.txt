@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AttributeAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ClassAliasingMapper.java
+xstream/src/test/com/thoughtworks/acceptance/XStream.xsl
+xstream/src/test/com/thoughtworks/acceptance/XStreamConverterTest.java

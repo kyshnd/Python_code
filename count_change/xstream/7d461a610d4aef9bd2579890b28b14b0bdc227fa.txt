@@ -1,0 +1,3 @@
+xstream/website/content/changes.html
+xstream/website/content/converters.html
+xstream/website/templates/skin.html

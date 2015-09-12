@@ -1,0 +1,13 @@
+xstream-distribution/src/content/faq.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/DefaultFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldKey.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionProviderWrapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/test/com/thoughtworks/acceptance/SortableFieldListTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorterTest.java

@@ -1,0 +1,4 @@
+xstream/src/test/com/thoughtworks/acceptance/QNameMappedConcreteClassesTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriter2Test.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriterTest.java

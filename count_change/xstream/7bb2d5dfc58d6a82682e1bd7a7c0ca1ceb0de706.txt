@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/test/com/thoughtworks/xstream/core/JVMTest.java

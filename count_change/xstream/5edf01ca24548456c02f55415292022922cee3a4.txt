@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/ThreadSafeSimpleDateFormat.java
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Primitives.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractDocumentWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DocumentReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DocumentWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/JDomWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomWriter.java

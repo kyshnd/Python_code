@@ -1,0 +1,9 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/ComparingPropertySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/NativePropertySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/PropertyDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/PropertySorter.java
+xstream/src/test/com/thoughtworks/xstream/converters/javabean/PropertyDictionaryTest.java

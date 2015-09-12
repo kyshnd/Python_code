@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/index.html
+xstream-distribution/src/content/news.html

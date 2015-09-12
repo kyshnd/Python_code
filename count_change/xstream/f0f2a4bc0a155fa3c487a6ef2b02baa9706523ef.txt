@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java

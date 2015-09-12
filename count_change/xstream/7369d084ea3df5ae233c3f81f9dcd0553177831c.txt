@@ -1,0 +1,2 @@
+xstream-distribution/src/content/faq.html
+xstream-distribution/src/content/manual-tweaking-output.html

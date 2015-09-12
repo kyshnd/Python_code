@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProperty.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/PrettyPrintWriterTest.java

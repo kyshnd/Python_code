@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/XStream11XmlFriendlyReplacer.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AwkwardCharactersTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream11XmlFriendlyReplacerTest.java

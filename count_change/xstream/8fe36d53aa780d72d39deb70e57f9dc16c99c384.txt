@@ -1,0 +1,8 @@
+xstream/lib/cglib-license.txt
+xstream/lib/cglib-nodep-2.1_3.jar
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/CGLIBEnhancedConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/util/IntQueue.java
+xstream/src/java/com/thoughtworks/xstream/mapper/CGLIBMapper.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java

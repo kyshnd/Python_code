@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/acceptance/JTableTest.java
+xstream/src/test/com/thoughtworks/acceptance/SwingTest.java

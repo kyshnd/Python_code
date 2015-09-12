@@ -1,0 +1,4 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SubjectConverter.java
+xstream/src/test/com/thoughtworks/acceptance/Extended14TypesTest.java

@@ -1,0 +1,7 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/XStreamer.java
+xstream/src/test/com/thoughtworks/acceptance/XStream.xsl
+xstream/src/test/com/thoughtworks/acceptance/XStreamConvertionTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStreamer.xsl
+xstream/src/test/com/thoughtworks/acceptance/XStreamerTest.java

@@ -1,0 +1,8 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/DependencyInjectionFactory.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ClassConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ParametrizedConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/core/util/DependencyInjectionFactoryTest.java

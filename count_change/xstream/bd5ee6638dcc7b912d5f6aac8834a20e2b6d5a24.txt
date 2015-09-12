@@ -1,0 +1,7 @@
+xstream/website/README.txt
+xstream/website/lib/README.txt
+xstream/website/lib/freemarker.jar
+xstream/website/lib/servletapi-2.3.jar
+xstream/website/lib/sitemesh-2.2.1.jar
+xstream/website/lib/xpp3-1.1.3.4d_b4_min.jar
+xstream/website/lib/xstream-20041216.jar

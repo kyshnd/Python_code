@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java

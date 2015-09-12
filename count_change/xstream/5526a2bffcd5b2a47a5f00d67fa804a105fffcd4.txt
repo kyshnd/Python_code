@@ -1,0 +1,12 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/EnumMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ImmutableTypesMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java

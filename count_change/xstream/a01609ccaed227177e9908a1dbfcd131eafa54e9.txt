@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/TreeMapAndTreeSetTest.java

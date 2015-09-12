@@ -1,0 +1,8 @@
+xstream-website/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/xstream/mapper/ImplicitCollectionMapperTest.java

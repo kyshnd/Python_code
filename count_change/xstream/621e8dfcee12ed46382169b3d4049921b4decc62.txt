@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/BEAStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/JDK6StaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/WoodstoxStaxWriterTest.java

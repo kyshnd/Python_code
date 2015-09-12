@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/XStreamConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/ClassLoaderReference.java
+xstream/src/test/com/thoughtworks/acceptance/XStreamConverterTest.java

@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/CGLIBEnhancedConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionProviderWrapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java

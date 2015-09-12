@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/XStream12FieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/OrderRetainingMap.java

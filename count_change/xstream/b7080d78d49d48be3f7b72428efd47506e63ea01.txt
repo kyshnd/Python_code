@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java

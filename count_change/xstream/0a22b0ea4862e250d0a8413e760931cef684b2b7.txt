@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CharArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/EncodedByteArrayConverterTest.java

@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/CircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/DuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategyTest.java
+xstream/src/test/com/thoughtworks/xstream/core/TreeMarshallerTest.java

@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/faq.html
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/PresortedMap.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/SecurityManagerTest.java

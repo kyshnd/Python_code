@@ -1,0 +1,9 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/converters/basic/DateConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/IDNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/basic/DateConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/collections/ByteArrayConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/core/TreeUnmarshallerTest.java

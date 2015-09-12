@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationProvider.java
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamContainedType.java

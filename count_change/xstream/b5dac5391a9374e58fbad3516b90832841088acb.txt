@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/DynamicProxyMapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/DynamicProxyConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultClassMapperTest.java

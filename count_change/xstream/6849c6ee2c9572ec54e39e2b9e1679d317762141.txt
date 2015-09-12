@@ -1,0 +1,5 @@
+xstream/lib/kxml2-license.txt
+xstream/lib/kxml2-min-2.3.0.jar
+xstream/lib/xmlpull-1.1.3.1.jar
+xstream/lib/xmlpull-license.txt
+xstream/pom.xml

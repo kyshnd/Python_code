@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/xml/BEAStaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StandardStaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/WstxDriver.java

@@ -1,0 +1,3 @@
+xstream/src/test/com/thoughtworks/xstream/io/binary/BinaryStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/io/copy/HierarchicalStreamCopierTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/XppDomReaderTest.java

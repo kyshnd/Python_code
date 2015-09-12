@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/ByteConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ArrayMapper.java
+xstream/src/test/com/thoughtworks/acceptance/ArraysTest.java

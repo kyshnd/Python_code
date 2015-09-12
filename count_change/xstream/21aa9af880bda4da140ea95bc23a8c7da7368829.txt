@@ -1,0 +1,10 @@
+xstream/jdk-1.5-minimum.txt
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationProvider.java
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationConfiguration.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationFieldConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/XStream12AnnotationCompatibilityTest.java

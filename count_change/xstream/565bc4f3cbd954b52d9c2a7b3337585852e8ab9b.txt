@@ -1,0 +1,4 @@
+pom.xml
+xstream/lib/commons-lang-2.1.jar
+xstream/lib/commons-lang-2.4.jar
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/HarmonyReflectionProvider.java

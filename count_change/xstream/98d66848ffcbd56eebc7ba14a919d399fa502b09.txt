@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/repository.html
+xstream-distribution/src/content/website.xml

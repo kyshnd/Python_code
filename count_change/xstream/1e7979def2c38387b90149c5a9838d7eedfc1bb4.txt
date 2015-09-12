@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java

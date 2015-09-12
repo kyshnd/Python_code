@@ -1,0 +1,4 @@
+README.txt
+xstream-distribution/src/assembly/assembly-bin.xml
+xstream/README.txt
+xstream/build.xml

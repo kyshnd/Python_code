@@ -1,0 +1,1 @@
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/util/Hibernate.java

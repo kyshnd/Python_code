@@ -1,0 +1,16 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/Converter.java
+xstream/src/java/com/thoughtworks/xstream/converters/MarshallingContext.java
+xstream/src/java/com/thoughtworks/xstream/converters/UnmarshallingContext.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/AbstractBasicConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/NullConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/PropertiesConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/old/MarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/converters/old/OldConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/old/OldConverterAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/converters/old/UnmarshallingContextAdaptor.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/xml/xpp3/Xpp3XStreamTest.java

@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConverterRegistry.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/test/com/thoughtworks/acceptance/CustomMapperTest.java

@@ -1,0 +1,4 @@
+xstream-website/src/content/changes.html
+xstream-website/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumSetConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/EnumSetConverterTest.java

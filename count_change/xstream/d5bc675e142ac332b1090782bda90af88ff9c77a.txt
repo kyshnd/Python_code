@@ -1,0 +1,12 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/CustomSerializationTest.java
+xstream/src/test/com/thoughtworks/acceptance/Extended14TypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java
+xstream/src/test/com/thoughtworks/acceptance/SerializationCallbackOrderTest.java
+xstream/src/test/com/thoughtworks/acceptance/SerializationNestedWriteObjectsTest.java
+xstream/src/test/com/thoughtworks/acceptance/WriteReplaceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XmlFriendlyTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/SerializableConverterTest.java

@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/MarshallingContext.java
+xstream/src/java/com/thoughtworks/xstream/converters/UnmarshallingContext.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/CharsetConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionProviderWrapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java

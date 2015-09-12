@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/xml/xpp3/Xpp3Dom.java
+xstream/src/java/com/thoughtworks/xstream/xml/xpp3/Xpp3DomBuilder.java
+xstream/src/java/com/thoughtworks/xstream/xml/xpp3/Xpp3DomXMLReader.java
+xstream/src/java/com/thoughtworks/xstream/xml/xpp3/Xpp3DomXMLReaderDriver.java
+xstream/src/java/com/thoughtworks/xstream/xml/xpp3/Xpp3DomXMLWriter.java

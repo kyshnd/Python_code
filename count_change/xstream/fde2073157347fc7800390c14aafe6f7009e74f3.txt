@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/SwingTest.java

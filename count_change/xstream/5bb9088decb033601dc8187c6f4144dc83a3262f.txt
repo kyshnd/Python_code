@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/acceptance/FinalFieldsTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider15Test.java

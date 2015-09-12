@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/test/com/thoughtworks/acceptance/Concurrent15TypesTest.java

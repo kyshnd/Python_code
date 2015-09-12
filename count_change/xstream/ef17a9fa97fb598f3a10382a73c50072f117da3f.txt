@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java

@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/alias/ClassMapperWrapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/ImmutableTypesMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/website/.cvsignore

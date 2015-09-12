@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/CharConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java
+xstream/src/test/com/thoughtworks/acceptance/BasicTypesTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/basic/CharConverterTest.java

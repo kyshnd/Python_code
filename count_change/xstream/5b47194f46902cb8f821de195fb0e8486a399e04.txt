@@ -1,0 +1,15 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultNameMapper.java
+xstream/src/java/com/thoughtworks/xstream/converters/lookup/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/converters/old/MarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/converters/old/UnmarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultNameMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/MarshallingContextAdaptor.java
+xstream/src/java/com/thoughtworks/xstream/core/UnmarshallingContextAdaptor.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/alias/DefaultClassMapperTest.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultClassMapperTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xpp3/Xpp3XStreamTest.java

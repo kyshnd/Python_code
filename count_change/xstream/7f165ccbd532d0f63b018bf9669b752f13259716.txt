@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStreamer.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/CGLIBEnhancedConverter.java
+xstream/src/java/com/thoughtworks/xstream/io/binary/Token.java
+xstream/src/test/com/thoughtworks/acceptance/SerializationNestedWriteObjectsTest.java

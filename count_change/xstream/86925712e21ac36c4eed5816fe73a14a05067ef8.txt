@@ -1,0 +1,8 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/basic/NullConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterModeDroppingRootTest.java

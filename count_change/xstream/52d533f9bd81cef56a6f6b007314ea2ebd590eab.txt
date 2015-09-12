@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/acceptance/XStream11XmlFriendlyReplacerTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream11XmlFriendlyTest.java

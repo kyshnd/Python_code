@@ -1,0 +1,14 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamAsAttribute.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamImplicit.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/TextAttributeConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractAttributedCharacterIteratorAttributeConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ImmutableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/NativeFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SortableFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/DependencyInjectionFactory.java
+xstream/src/java/com/thoughtworks/xstream/core/util/TypedNull.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AttributeAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AttributeMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java

@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/faq.html
+xstream-distribution/src/content/index.html
+xstream/pom.xml

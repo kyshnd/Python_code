@@ -1,0 +1,12 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/StreamException.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXppDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/BEAStaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/KXml2Driver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/SjsxpDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StaxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/WstxDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Xpp3Driver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java

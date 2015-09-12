@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/BeanProperty.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/PropertyDictionary.java

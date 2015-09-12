@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationProvider.java
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/annotations/Annotations.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java

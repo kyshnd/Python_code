@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonWriter.java

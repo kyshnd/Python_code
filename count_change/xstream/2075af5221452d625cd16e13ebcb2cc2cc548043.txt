@@ -1,0 +1,3 @@
+xstream-hibernate/src/test/acceptance/hibernate/reference/Department.java
+xstream-hibernate/src/test/acceptance/hibernate/reference/Division.java
+xstream-hibernate/src/test/acceptance/hibernate/reference/Site.java

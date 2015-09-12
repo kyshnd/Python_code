@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/ConverterLookup.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultNameMapper.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultClassMapperTest.java

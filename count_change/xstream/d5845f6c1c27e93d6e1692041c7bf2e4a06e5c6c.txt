@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/JavaReflectionObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/ObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/SunReflectionObjectFactory.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/JavaReflectionObjectFactoryTest.java

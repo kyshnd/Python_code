@@ -1,0 +1,5 @@
+xstream/build.xml
+xstream/lib/sablecc.jar
+xstream/src/java/com/thoughtworks/xstream/io/squidgey/SquidgeyTranslator.java
+xstream/src/java/com/thoughtworks/xstream/io/squidgey/squidgey.grammar
+xstream/src/test/com/thoughtworks/xstream/io/squidgey/SquidgeyTranslatorTest.java

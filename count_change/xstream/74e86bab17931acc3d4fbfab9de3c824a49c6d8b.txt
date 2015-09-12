@@ -1,0 +1,6 @@
+xstream-website/src/content/architecture.html
+xstream-website/src/content/changes.html
+xstream-website/src/content/download.html
+xstream-website/src/content/faq.html
+xstream-website/src/content/graphs.html
+xstream-website/src/content/index.html

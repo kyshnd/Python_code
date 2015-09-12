@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/annotations/AnnotationReflectionConverter.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationReflectionConverterTest.java

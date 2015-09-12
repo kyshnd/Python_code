@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/team.html
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/JavaBeanConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/javabean/PropertyDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/MissingFieldException.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java

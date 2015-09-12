@@ -1,0 +1,11 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/ThreadSafeSimpleDateFormat.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/CircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/DuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/IDCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/IDDuplicateReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/acceptance/XPathDuplicateReferenceTest.java

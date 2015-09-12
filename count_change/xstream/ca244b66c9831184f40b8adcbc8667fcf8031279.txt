@@ -1,0 +1,6 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamWriter.java
+xstream/src/test/com/thoughtworks/acceptance/WriteReplaceTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Original.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Replaced.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java

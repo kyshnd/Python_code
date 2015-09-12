@@ -1,0 +1,9 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/BEAStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Dom4JXmlWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/SjsxpStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/WoodstoxStaxWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/WstxWriterTest.java

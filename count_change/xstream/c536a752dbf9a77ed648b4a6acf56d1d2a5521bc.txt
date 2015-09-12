@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/basic/ByteConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/IntConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/LongConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/ShortConverter.java
+xstream/src/test/com/thoughtworks/acceptance/BasicTypesTest.java

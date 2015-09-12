@@ -1,0 +1,4 @@
+xstream/website/content/changes.html
+xstream/website/content/download.html
+xstream/website/content/news.html
+xstream/website/skinner.rb

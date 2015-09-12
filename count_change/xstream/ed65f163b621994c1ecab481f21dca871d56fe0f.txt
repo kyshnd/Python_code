@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ExternalizableConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/util/HierarchicalStreams.java
+xstream/src/test/com/thoughtworks/acceptance/WriteReplaceTest.java

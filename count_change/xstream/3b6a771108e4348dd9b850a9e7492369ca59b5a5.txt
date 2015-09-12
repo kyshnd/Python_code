@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4Reader.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Dom4JReaderTest.java

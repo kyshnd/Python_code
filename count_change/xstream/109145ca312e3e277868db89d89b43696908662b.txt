@@ -1,0 +1,8 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/alias/DefaultCollectionLookup.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultClassMapper.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/DefaultCollectionTest.java

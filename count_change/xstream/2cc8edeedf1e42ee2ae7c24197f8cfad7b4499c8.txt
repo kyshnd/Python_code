@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ExternalizableConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CustomObjectInputStream.java
+xstream/src/java/com/thoughtworks/xstream/core/util/CustomObjectOutputStream.java
+xstream/src/test/com/thoughtworks/acceptance/CustomSerializationTest.java
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java

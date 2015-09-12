@@ -1,0 +1,5 @@
+pom.xml
+xstream-website/pom.xml
+xstream/build.xml
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/annotations/Annotations.java

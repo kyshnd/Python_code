@@ -1,0 +1,8 @@
+xstream/lib/joda-time-1.0.jar
+xstream/lib/joda-time-1.1.jar
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ISO8601DateConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ISO8601GregorianCalendarConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ISO8601SqlTimestampConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ISO8601DateConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ISO8601GregorianCalendarConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ISO8601SqlTimestampConverterTest.java

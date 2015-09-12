@@ -1,0 +1,5 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ClassAliasingMapper.java
+xstream/src/test/com/thoughtworks/acceptance/Extended14TypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream.xsl

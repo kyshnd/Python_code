@@ -1,0 +1,1 @@
+xstream/jdk-1.5-specific.txt

@@ -1,0 +1,7 @@
+xstream/jdk-1.4-specific.txt
+xstream/src/java/com/thoughtworks/xstream/core/util/Fields.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/Category.java
+xstream/src/test/com/thoughtworks/xstream/core/util/ObjectIdDictionaryTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonWriterModeDroppingRootTest.java

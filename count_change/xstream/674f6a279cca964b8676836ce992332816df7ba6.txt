@@ -1,0 +1,5 @@
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/basic/DateConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ISO8601DateConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/testutil/TimeZoneChanger.java
+xstream/src/test/com/thoughtworks/xstream/testutil/TimeZoneTestSuite.java

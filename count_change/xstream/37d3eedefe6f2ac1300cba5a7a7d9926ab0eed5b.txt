@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream-hibernate/src/test/acceptance/hibernate/HibernateCollectionsTypeCompatibilityTest.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeMapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/TreeSetConverter.java

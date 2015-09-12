@@ -1,0 +1,3 @@
+pom.xml
+xstream-distribution/pom.xml
+xstream-distribution/src/xsite/xsite.xml

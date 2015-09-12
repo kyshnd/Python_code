@@ -1,0 +1,7 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/AbstractReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AttributeAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ClassAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/Mapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/MapperWrapper.java
+xstream/src/test/com/thoughtworks/acceptance/AttributeTest.java

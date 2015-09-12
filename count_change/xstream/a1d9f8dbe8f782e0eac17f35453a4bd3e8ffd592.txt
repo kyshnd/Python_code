@@ -1,0 +1,4 @@
+xstream-builder/src/java/com/thoughtworks/xstream/builder/FieldConfig.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/TypeConfig.java
+xstream-builder/src/java/com/thoughtworks/xstream/builder/XStreamBuilder.java
+xstream-builder/src/test/com/thoughtworks/acceptance/XStreamBuilderTest.java

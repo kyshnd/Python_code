@@ -1,0 +1,4 @@
+xstream-builder/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream-builder/src/test/com/thoughtworks/acceptance/AbstractBuilderAcceptanceTest.java
+xstream-builder/src/test/com/thoughtworks/acceptance/XStreamBuilderTest.java
+xstream-builder/src/test/com/thoughtworks/acceptance/annotations/XStreamBuilderAnnotationsTest.java

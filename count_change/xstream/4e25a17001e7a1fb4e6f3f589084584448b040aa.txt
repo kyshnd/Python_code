@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XomDriver.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/Dom4JWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DriverEndToEndTestSuite.java

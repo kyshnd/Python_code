@@ -1,0 +1,3 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java

@@ -1,0 +1,17 @@
+xstream-benchmark/pom.xml
+xstream-benchmark/src/java/com/thoughtworks/xstream/tools/benchmark/package.html
+xstream/src/java/com/thoughtworks/xstream/io/AttributeNameIterator.java
+xstream/src/java/com/thoughtworks/xstream/io/binary/BinaryStreamReader.java
+xstream/src/java/com/thoughtworks/xstream/io/binary/BinaryStreamWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/copy/HierarchicalStreamCopier.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractDocumentReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractPullReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXmlReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXmlWriter.java
+xstream/src/test/com/thoughtworks/acceptance/OmitFieldsTest.java
+xstream/src/test/com/thoughtworks/acceptance/SwingTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/GregorianCalendarConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/core/DefaultConverterLookupTest.java
+xstream/src/test/com/thoughtworks/xstream/io/binary/BinaryStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/io/copy/HierarchicalStreamCopierTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/DriverEndToEndTestSuite.java

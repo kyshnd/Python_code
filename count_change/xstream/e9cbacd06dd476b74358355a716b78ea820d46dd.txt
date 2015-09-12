@@ -1,0 +1,5 @@
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/ImplicitCollectionTest.java
+xstream/src/test/com/thoughtworks/acceptance/MapTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/AnnotationsTest.java

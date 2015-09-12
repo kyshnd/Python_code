@@ -1,0 +1,6 @@
+xstream/xdocs/changes.xml
+xstream/xdocs/images/thoughtworks.jpg
+xstream/xdocs/images/xstream-templogo.gif
+xstream/xdocs/index.xml
+xstream/xdocs/navigation.xml
+xstream/xdocs/tutorial.xml

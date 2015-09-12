@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/CglibCompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/DynamicProxyTest.java

@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/FieldDictionary.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SerializableConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/FieldAliasingMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/ImplicitCollectionMapper.java

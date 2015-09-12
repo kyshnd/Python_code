@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java

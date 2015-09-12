@@ -1,0 +1,3 @@
+xstream/maven.xml
+xstream/project.properties
+xstream/project.xml

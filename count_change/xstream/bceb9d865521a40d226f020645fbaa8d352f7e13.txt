@@ -1,0 +1,2 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/XStream11XmlFriendlyReplacer.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XmlFriendlyReplacer.java

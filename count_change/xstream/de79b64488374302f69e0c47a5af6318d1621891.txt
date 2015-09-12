@@ -1,0 +1,3 @@
+CVSROOT/checkoutlist
+CVSROOT/damagecontrol-xstream.conf
+CVSROOT/loginfo

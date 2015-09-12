@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/LocaleConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SqlDateConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java

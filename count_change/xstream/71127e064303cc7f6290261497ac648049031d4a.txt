@@ -1,0 +1,3 @@
+xstream-website/src/content/changes.html
+xstream-website/src/content/repository.html
+xstream-website/src/content/team.html

@@ -1,0 +1,5 @@
+xstream/src/test/com/thoughtworks/xstream/XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reference/CircularityTrackerTest.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/JavaReflectionObjectFactoryTest.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/ReflectionObjectGraphTest.java

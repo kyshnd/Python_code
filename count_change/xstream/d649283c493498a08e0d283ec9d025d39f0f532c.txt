@@ -1,0 +1,2 @@
+pom.xml
+xstream/src/test/com/thoughtworks/xstream/io/json/JsonHierarchicalStreamDriverTest.java

@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/NativeFieldKeySorter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/XStream12FieldKeySorter.java
+xstream/src/test/com/thoughtworks/acceptance/XStream12CompatibilityTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/NativeFieldKeySorterTest.java

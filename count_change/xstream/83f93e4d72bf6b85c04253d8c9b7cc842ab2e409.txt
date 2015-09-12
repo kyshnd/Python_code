@@ -1,0 +1,9 @@
+pom.xml
+xstream/lib/oro-2.0.8.jar
+xstream/lib/oro-license.txt
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JWriter.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/AbstractXMLWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/PrettyPrintWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriter2Test.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/StaxWriterTest.java

@@ -1,0 +1,12 @@
+xstream/build.xml
+xstream/src/java/com/thoughtworks/xstream/io/ReaderWrapper.java
+xstream/src/java/com/thoughtworks/xstream/io/WriterWrapper.java
+xstream/src/java/com/thoughtworks/xstream/io/path/Path.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTracker.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingReader.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/path/RelativePathCalculator.java
+xstream/src/java/com/thoughtworks/xstream/io/path/package.html
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackerTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingReaderTest.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingWriterTest.java

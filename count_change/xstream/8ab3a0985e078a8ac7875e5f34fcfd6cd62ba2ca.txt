@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/core/util/IntQueue.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppReader.java
+xstream/src/test/com/thoughtworks/xstream/core/util/IntQueueTest.java

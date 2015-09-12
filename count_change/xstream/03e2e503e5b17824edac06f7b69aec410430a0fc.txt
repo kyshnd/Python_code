@@ -1,0 +1,4 @@
+sandbox/xstream-modeller/src/main/java/org/codehaus/xstream/modeller/XNode.java
+sandbox/xstream-modeller/src/main/java/org/codehaus/xstream/modeller/XStreamModeller.java
+sandbox/xstream-modeller/src/main/java/org/codehaus/xstream/modeller/dom/Element.java
+sandbox/xstream-modeller/src/main/test/org/codehaus/xstream/modeller/acceptance/ElementsNodeTest.java

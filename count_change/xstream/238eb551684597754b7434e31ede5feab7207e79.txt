@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/ClassConverterTest.java
+xstream/src/test/com/thoughtworks/acceptance/annotations/FieldConverterTest.java

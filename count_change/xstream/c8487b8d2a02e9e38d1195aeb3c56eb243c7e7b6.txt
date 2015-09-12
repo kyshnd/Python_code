@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaClassConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/AnnotationMapper.java
+xstream/src/java/com/thoughtworks/xstream/mapper/DefaultMapper.java
+xstream/src/test/com/thoughtworks/acceptance/ClassLoaderTest.java

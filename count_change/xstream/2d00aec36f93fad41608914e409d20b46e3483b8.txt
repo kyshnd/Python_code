@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/collections/PropertiesConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xppdom/Xpp3XStreamTest.java

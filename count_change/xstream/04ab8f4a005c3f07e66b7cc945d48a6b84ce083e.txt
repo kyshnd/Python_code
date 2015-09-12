@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamAlias.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamConfig.java
+xstream/src/java/com/thoughtworks/xstream/annotations/XStreamContainedType.java

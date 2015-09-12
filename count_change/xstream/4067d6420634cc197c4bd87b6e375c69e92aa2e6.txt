@@ -1,0 +1,2 @@
+xstream/lib/woodstox-license.txt
+xstream/lib/wstx-asl-3.2.0.jar

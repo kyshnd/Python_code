@@ -1,0 +1,5 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/SjsxpDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/StandardStaxDriver.java
+xstream/src/test/com/thoughtworks/xstream/io/DriverEndToEndTestSuite.java

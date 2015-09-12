@@ -1,0 +1,11 @@
+CVSROOT/checkoutlist
+CVSROOT/commitinfo
+CVSROOT/editinfo
+CVSROOT/loginfo
+CVSROOT/modules
+CVSROOT/notify
+CVSROOT/rcsinfo
+CVSROOT/taginfo
+CVSROOT/verifymsg
+xstream/src/java/com/thoughtworks/xstream/converters/basic/DateConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/basic/DateConverterTest.java

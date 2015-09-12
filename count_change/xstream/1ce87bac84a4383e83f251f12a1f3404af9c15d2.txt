@@ -1,0 +1,9 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/ArrayConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/composite/ObjectWithFieldsConverter.java
+xstream/src/test/com/thoughtworks/someobjects/Handler.java
+xstream/src/test/com/thoughtworks/someobjects/HandlerManager.java
+xstream/src/test/com/thoughtworks/someobjects/Protocol.java

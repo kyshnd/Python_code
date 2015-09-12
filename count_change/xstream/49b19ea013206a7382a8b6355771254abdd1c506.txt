@@ -1,0 +1,7 @@
+distribution/pom.xml
+distribution/src/assembly-bin.xml
+distribution/src/assembly-src.xml
+pom.xml
+xstream-website/pom.xml
+xstream-website/src/assembly/assembly-bin.xml
+xstream-website/src/assembly/assembly-src.xml

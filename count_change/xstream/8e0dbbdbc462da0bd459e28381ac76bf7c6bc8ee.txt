@@ -1,0 +1,11 @@
+CVSROOT/checkoutlist
+CVSROOT/commitinfo
+CVSROOT/cvsspam.conf
+CVSROOT/dctrigger.rb
+CVSROOT/editinfo
+CVSROOT/loginfo
+CVSROOT/modules
+CVSROOT/notify
+CVSROOT/rcsinfo
+CVSROOT/taginfo
+CVSROOT/verifymsg

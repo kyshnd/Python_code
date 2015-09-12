@@ -1,0 +1,4 @@
+pom.xml
+xstream-distribution/src/content/download.html
+xstream/lib/joda-time-1.2.1.jar
+xstream/lib/joda-time-1.5.1.jar

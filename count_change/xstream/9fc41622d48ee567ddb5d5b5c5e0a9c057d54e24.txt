@@ -1,0 +1,1 @@
+xstream-benchmark/src/test/com/thoughtworks/xstream/benchmark/xmlfriendly/XmlFriendlyBenchmark.java

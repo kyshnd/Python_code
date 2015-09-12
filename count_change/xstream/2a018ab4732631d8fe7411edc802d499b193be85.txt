@@ -1,0 +1,4 @@
+xstream-benchmark/pom.xml
+xstream-distribution/pom.xml
+xstream-distribution/src/content/website.xml
+xstream-hibernate/pom.xml

@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/io/xml/DomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDomDriver.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XppDriver.java
+xstream/src/test/com/thoughtworks/acceptance/EncodingTestSuite.java
+xstream/src/test/com/thoughtworks/acceptance/UTF8EncodingTestSuite.java

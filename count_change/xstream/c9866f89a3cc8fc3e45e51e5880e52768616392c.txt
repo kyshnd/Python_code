@@ -1,0 +1,13 @@
+xstream/src/java/com/thoughtworks/xstream/core/AbstractTreeMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/TreeMarshallingStrategy.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXmlReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/AbstractXmlWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XmlFriendlyReader.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/XmlFriendlyWriter.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/XStream12CompatibilityTest.java
+xstream/src/test/com/thoughtworks/acceptance/XmlFriendlyTest.java

@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/PropertiesConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/collections/PropertiesConverterTest.java

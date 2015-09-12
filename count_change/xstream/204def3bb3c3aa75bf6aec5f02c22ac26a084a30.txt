@@ -1,0 +1,14 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/JavaClassConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/CollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/SqlTimestampConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/lookup/DefaultConverterLookup.java
+xstream/src/test/com/thoughtworks/acceptance/BasicTypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/CustomClassesTest.java
+xstream/src/test/com/thoughtworks/acceptance/ExtendedTypesTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SampleLists.java
+xstream/todo.txt

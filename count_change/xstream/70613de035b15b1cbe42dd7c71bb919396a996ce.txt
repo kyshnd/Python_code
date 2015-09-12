@@ -1,0 +1,12 @@
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/cache/products/AliasedAttributeCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/cache/products/Cache122.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/cache/products/DefaultImplementationCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/cache/products/RealClassCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/cache/products/SerializedClassCache.java
+xstream-benchmark/src/test/com/thoughtworks/xstream/tools/benchmark/cache/products/XStreamCache.java
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/core/util/DependencyInjectionFactory.java
+xstream/src/test/com/thoughtworks/acceptance/FinalFieldsTest.java
+xstream/src/test/com/thoughtworks/xstream/core/JVMTest.java
+xstream/src/test/com/thoughtworks/xstream/io/DriverEndToEndTestSuite.java

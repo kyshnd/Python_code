@@ -1,0 +1,15 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/basic/NullConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/AbstractCollectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/MapConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/collections/PropertiesConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ColorConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/io/HierarchicalStreamWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/path/PathTrackingWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Dom4JWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/PrettyPrintWriter.java
+xstream/src/java/com/thoughtworks/xstream/io/xml/Xpp3Writer.java
+xstream/src/test/com/thoughtworks/xstream/io/path/PathTrackingWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/CompactWriterTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/PrettyPrintWriterTest.java

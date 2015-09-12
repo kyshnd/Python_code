@@ -1,0 +1,9 @@
+xstream/.cvsignore
+xstream/build.xml
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/test/com/thoughtworks/acceptance/CollectionsTest.java
+xstream/src/test/com/thoughtworks/acceptance/ReadResolveTest.java
+xstream/src/test/com/thoughtworks/acceptance/WriteReplaceTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/ColorEnum.java
+xstream/src/test/com/thoughtworks/acceptance/someobjects/TreeMapAndTreeSetTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ThrowableConverterTest.java

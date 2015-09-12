@@ -1,0 +1,8 @@
+pom.xml
+xstream-distribution/src/content/download.html
+xstream/lib/jettison-1.0-RC1.jar
+xstream/lib/jettison-1.0-RC2.jar
+xstream/lib/wstx-asl-3.2.0.jar
+xstream/lib/wstx-asl-3.2.3.jar
+xstream/lib/xpp3_min-1.1.3.4.O.jar
+xstream/lib/xpp3_min-1.1.4c.jar

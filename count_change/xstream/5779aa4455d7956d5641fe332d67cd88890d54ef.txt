@@ -1,0 +1,9 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/converters.html
+xstream-distribution/src/content/faq.html
+xstream/pom.xml
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/LambdaConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/util/Types.java
+xstream/src/java/com/thoughtworks/xstream/mapper/LambdaMapper.java
+xstream/src/test/com/thoughtworks/acceptance/LambdaTest.java

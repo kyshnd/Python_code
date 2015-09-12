@@ -1,0 +1,4 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/converters/extended/DynamicProxyConverter.java
+xstream/src/test/com/thoughtworks/acceptance/DynamicProxyTest.java
+xstream/src/test/com/thoughtworks/acceptance/objects/SampleDynamicProxy.java

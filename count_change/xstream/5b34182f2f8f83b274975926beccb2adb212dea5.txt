@@ -1,0 +1,8 @@
+pom.xml
+xstream-distribution/src/content/converter-tutorial.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/manual-tweaking-output.html
+xstream-distribution/src/content/repository.html
+xstream-distribution/src/content/team.html
+xstream-distribution/src/content/versioning.html
+xstream-distribution/src/content/website.xml

@@ -1,0 +1,5 @@
+xstream/website/content/faq.html
+xstream/website/content/how-to-contribute.html
+xstream/website/content/team.html
+xstream/website/content/website.xml
+xstream/website/templates/style.css

@@ -1,0 +1,6 @@
+xstream-distribution/src/content/changes.html
+xstream/src/java/com/thoughtworks/xstream/core/AbstractReferenceMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByXPathMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/SequenceGenerator.java
+xstream/src/test/com/thoughtworks/acceptance/BeanIDCircularReferenceTest.java

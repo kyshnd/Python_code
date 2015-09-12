@@ -1,0 +1,2 @@
+xstream-benchmark/pom.xml
+xstream-hibernate/pom.xml

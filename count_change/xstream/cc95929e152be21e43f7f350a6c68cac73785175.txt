@@ -1,0 +1,7 @@
+xstream-distribution/src/content/changes.html
+xstream-distribution/src/content/download.html
+xstream-distribution/src/content/index.html
+xstream-distribution/src/content/news.html
+xstream/src/java/com/thoughtworks/xstream/converters/basic/DateConverter.java
+xstream/src/java/com/thoughtworks/xstream/core/JVM.java
+xstream/src/java/com/thoughtworks/xstream/io/json/AbstractJsonWriter.java

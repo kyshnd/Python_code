@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/StackTraceElementConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/extended/ThrowableConverter.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/ThrowableConverterTest.java

@@ -1,0 +1,3 @@
+xstream/src/java/com/thoughtworks/xstream/converters/enums/EnumSingleValueConverter.java
+xstream/src/java/com/thoughtworks/xstream/mapper/EnumMapper.java
+xstream/src/test/com/thoughtworks/xstream/converters/enums/EnumMapperTest.java

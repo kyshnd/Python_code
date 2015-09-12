@@ -1,0 +1,14 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/JavaReflectionObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ObjectAccessException.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/ReflectionConverter.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/SunReflectionObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/ObjectAccessException.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/JavaReflectionObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/ObjectFactory.java
+xstream/src/java/com/thoughtworks/xstream/objecttree/reflection/SunReflectionObjectFactory.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractAcceptanceTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/JavaReflectionObjectFactoryTest.java
+xstream/src/test/com/thoughtworks/xstream/io/xml/xpp3/Xpp3XStreamTest.java
+xstream/src/test/com/thoughtworks/xstream/objecttree/reflection/JavaReflectionObjectFactoryTest.java

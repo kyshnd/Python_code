@@ -1,0 +1,2 @@
+xstream/src/test/com/thoughtworks/xstream/converters/extended/CharsetConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/extended/RegexPatternConverterTest.java

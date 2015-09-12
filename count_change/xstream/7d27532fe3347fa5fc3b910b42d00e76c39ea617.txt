@@ -1,0 +1,4 @@
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/PureJavaReflectionProvider.java
+xstream/src/java/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProvider.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/ReflectionConverterTest.java
+xstream/src/test/com/thoughtworks/xstream/converters/reflection/Sun14ReflectionProviderTest.java

@@ -1,0 +1,2 @@
+xstream-distribution/src/content/faq.html
+xstream-hibernate/src/java/com/thoughtworks/xstream/hibernate/package.html

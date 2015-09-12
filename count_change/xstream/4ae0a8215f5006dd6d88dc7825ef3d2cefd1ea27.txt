@@ -1,0 +1,5 @@
+xstream/src/java/com/thoughtworks/xstream/converters/extended/JavaClassConverter.java
+xstream/src/test/com/thoughtworks/acceptance/ReadResolveTest.java
+xstream/src/test/com/thoughtworks/acceptance/ReflectionClassesTest.java
+xstream/website/content/changes.html
+xstream/website/content/team.html

@@ -1,0 +1,6 @@
+xstream/src/java/com/thoughtworks/xstream/XStream.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdMarshaller.java
+xstream/src/java/com/thoughtworks/xstream/core/ReferenceByIdUnmarshaller.java
+xstream/src/java/com/thoughtworks/xstream/io/StatefulWriter.java
+xstream/src/test/com/thoughtworks/acceptance/AbstractNestedCircularReferenceTest.java
+xstream/src/test/com/thoughtworks/xstream/io/StatefulWriterTest.java
