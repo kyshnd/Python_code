@@ -75,3 +75,5 @@ for module in module_id_commit:
         print(commit)
         m += 1
     print()
+
+# change commit count per files to all commit count as one.
