@@ -1,7 +1,7 @@
 filename = "d:\\github\\xstream\\Analysis\\output.txt"
 file = open(filename)
-lines2 = file.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
-file.close() # lines2: リスト。要素は1行の文字列データ
+lines2 = file.readlines() # read by 1 line to the end
+file.close() # lines2 is an array
 
 hashcode=[]
 
