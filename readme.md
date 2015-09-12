@@ -2,14 +2,16 @@
 This is readme for me.
 
 #count_change
-counting commit number
-
+Make diff between commits as bash.
 
 #commit_number
+Counting commit number.
 
 #count_human
+Count developers
 
 #gnuplot
+Make gnuplot input file
 
-
-#Change_History_collection_TODO.txt
+#Change_History_collection_TODO
+TODO list.
