@@ -1,6 +1,6 @@
 Change_History_collection_TODO.txt
 
-純粋に変更回数(ファイルそれぞれの変更回数をひとまとめにする)を収集する
-横軸を時間として，その日に累積で何回修正されているか
-
-次に欠陥の数を時間で出す．
+Collect the number of changes about 1 project.
+  This program collects the numbers of changes about each file.
+  Gather the numbers as 1 file to treat as 1 project.
+  X axis is time, Y axis is the number of changes.
