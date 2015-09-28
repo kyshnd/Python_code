@@ -1,12 +1,8 @@
 
 filename = "intday.txt"
 file = open(filename)
-lines2 = file.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
-file.close() # lines2: リスト。要素は1行の文字列データ
-
-#       y1  y2  y3
-#   x1  z11 z12 z13
-#   x2  z21 z22 z23
+lines2 = file.readlines()
+file.close()
 
 file_id = []
 day = []
@@ -23,29 +19,28 @@ for line in lines2:
     if counter == 0:
         counter += 1
         for splited in split :
-            file_id.append(splited) #y axies
+            file_id.append(splited) #file_id
     else :
         day_counter = 0
         commit_time = []
         for splited in split :
             if day_counter == 0 :
-                day.append(splited)
+                day.append(splited) #append the first of lines to day array
                 day_counter += 1
             else :
-                commit_time.append(splited)
+                commit_time.append(splited) #append  to commit number array
                 #print(splited)
-        commit_times.append(commit_time)
+        commit_times.append(commit_time) #append all file commit to one line
 
 d = 0
 for day_array in day :
     f = 0
+    all_commit = 0
+    print(day_array, end = " ")
     for file_array in file_id :
-        print(day_array, end = " ")
-        print(file_array, end = " ")
-        if commit_times[d][f] == "0" :
-            print(commit_times[d][f])
-        else :
-            print("1")
+        #print(file_array, end = " ")
+        all_commit += int(commit_times[d][f])
+        #print(commit_times[d][f])
         f += 1
-    print("")
+    print(all_commit)
     d += 1
