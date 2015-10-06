@@ -36,7 +36,7 @@ for day in xaxis:
             day_and_commit.append(commit_day_element[1])
             continuous_commit_number.append(day_and_commit)
             print(day_and_commit)
-    if str(day) not in continuous_commit_number[0] :
+    if str(day) not in continuous_commit_number :
         day_and_commit = []
         day_and_commit.append(day)
         day_and_commit.append(continuous_commit_number[-1][1])
