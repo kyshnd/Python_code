@@ -12,13 +12,13 @@ for line in lines2:
     line = line.rstrip("\n")
     split = line.split(" ")
     commit_day.append(split)
-    print(split)
+#    print(split)
 
 first_day = commit_day[0][0]
 last_day = commit_day[len(commit_day)-1][0]
 
-print(first_day)
-print(last_day)
+#print(first_day)
+#print(last_day)
 
 xaxis = range(int(first_day),int(last_day),1)
 
@@ -30,15 +30,23 @@ for day in xaxis:
 #        print(commit_day_element[0])
         if str(day) in commit_day_element[0] :
             #continuous_commit_number.append(day,commit_day_element[1])
-            print("test")
+            #print("test")
             day_and_commit = []
             day_and_commit.append(day)
             day_and_commit.append(commit_day_element[1])
             continuous_commit_number.append(day_and_commit)
-            print(day_and_commit)
-    if str(day) not in continuous_commit_number :
+            #print(day_and_commit)
+    #print(day)
+    #print(isinstance(continuous_commit_number[-1][0],str))
+    #print(continuous_commit_number[-1][0])
+    if day != continuous_commit_number[-1][0] :
         day_and_commit = []
         day_and_commit.append(day)
         day_and_commit.append(continuous_commit_number[-1][1])
         continuous_commit_number.append(day_and_commit)
-        print(day_and_commit)
+        #print(day_and_commit)
+
+for commit_data in continuous_commit_number :
+    for element in commit_data :
+        print(element , end = ",")
+    print()
